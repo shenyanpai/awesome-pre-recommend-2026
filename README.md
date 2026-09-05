@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="17" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="16" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -123,40 +123,43 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年北京大学集成电路学院王路达教授课题组招收微纳电子、纳米科学技术方向博士生（2027年入学）](https://nan) |
+| 暂无 | [2026年北京大学国际关系学院2027年推荐免试硕士研究生报考北京大学-巴黎政治大学项目的通知](https://www.sis.pku.edu.cn/message27/2282158ff20d4745952886751c0de775.htm) |
+| 2026-09-08 | [2026年北京大学化学生物学与生物技术学院2027年接收推荐免试研究生说明](https://scbb.pkusz.edu.cn/info/1164/3901.htm) |
 | 2026-09-08 | [2026年北京大学软件与微电子学院2027年接收推荐免试硕士研究生招生说明](https://ss.pku.edu.cn/zsxx/zstz/99af84dbf2324a5abfa97084cc0ffaa8.htm) |
 | 2026-09-08 | [2026年北京大学新媒体研究院2027年关于接收推荐免试研究生的说明](https://snm.pku.edu.cn/info/1029/2874.htm) |
 | 2026-09-08 | [2026年北京大学哲学系关于接收2027年推荐免试研究生的通知](https://phil.pku.edu.cn/xwgg/tzgg/7baf103dbe9441eeb53a0412cecc6c3c.htm) |
-| 2026-09-08 | [2026年北京大学建筑与景观设计学院2027年接收推荐免试硕士研究生细则](https://www.cala.pku.edu.cn/info/1339/5812.htm) |
-| 2026-09-08 | [2026年北京大学历史学系招收2027年推荐免试研究生的通知](https://history.pku.edu.cn/zsjx/zs/4a37e018c50642d8a0b628403a5139a2.htm) |
+| 2026-09-08 | [2026年北京大学外国语学院关于接收2027年推荐免试研究生的说明](https://sfl.pku.edu.cn/tzgg/730222ca50d84d62aff79ea9c93ef542.htm) |
+| 2026-09-08 | [2026年北京大学中国语言文学系2027年接收推荐免试研究生的通知](https://chinese.pku.edu.cn/jyjx/zsxx/c1c96b7cca544d36b80ec8266755e2e2.htm) |
 | 2026-09-08 | [2026年北京大学法学院2027年推荐免试直接攻读博士学位研究生报名通知](https://www.law.pku.edu.cn/xwzx/ggtz/zsjx/3aac8c8786224dd994405296cc18da65.htm) |
 | 2026-09-08 | [2026年北京大学法学院2027年推荐免试攻读法律（法学）硕士研究生报名通知](https://www.law.pku.edu.cn/xwzx/ggtz/zsjx/93194a51b13842b1baf7635d05874ac7.htm) |
 | 2026-09-08 | [2026年北京大学法学院2027年推荐免试攻读法律（非法学）硕士研究生报名通知](https://www.law.pku.edu.cn/xwzx/ggtz/zsjx/609b2e8d8ea74b1c9197bf6fea1c810a.htm) |
 | 2026-09-08 | [2026年北京大学马克思主义学院关于接收2027年推荐免试研究生的通知](https://marxism.pku.edu.cn/tzgg/4bb3fda4163e4d8ba1ea930b26982ddb.htm) |
-| 2026-09-08 | [2026年北京大学外国语学院关于接收2027年推荐免试研究生的说明](https://sfl.pku.edu.cn/tzgg/730222ca50d84d62aff79ea9c93ef542.htm) |
-| 2026-09-08 | [2026年北京大学前沿交叉学科研究院区域与国别研究院关于接收2027年推荐免试（直博）研究生的说明](https://www.aais.pku.edu.cn/info/1350/20041.htm) |
-| 2026-09-08 | [2026年北京大学环境与能源学院2027年接收推荐免试研究生说明](https://see.pkusz.edu.cn/info/1022/2082.htm) |
+| 2026-09-08 | [2026年北京大学建筑与景观设计学院2027年接收推荐免试硕士研究生细则](https://www.cala.pku.edu.cn/info/1339/5812.htm) |
+| 2026-09-08 | [2026年北京大学历史学系招收2027年推荐免试研究生的通知](https://history.pku.edu.cn/zsjx/zs/4a37e018c50642d8a0b628403a5139a2.htm) |
+| 2026-09-08 | [2026年北京大学新闻与传播学院接收2027年推荐免试研究生重要通知](https://sjc.pku.edu.cn/info/1038/15213.htm) |
 | 2026-09-08 | [2026年北京大学社会学系2027年度接收推荐免试研究生招生说明](http://www.shehui.pku.edu.cn/sjytz2/articles/1544374072895475712.html) |
 | 2026-09-08 | [2026年北京大学信息管理系2027年度接收推荐免试研究生招生说明](http://www.im.pku.edu.cn/zsxm/ssxm/87cabe26740d40c5bc1742f871308c00.htm) |
 | 2026-09-08 | [2026年北京大学政府管理学院2027年关于接收推荐免试研究生的说明](https://www.sg.pku.edu.cn/wzsy/syzsxx/5a6629e82370400d91ee49f853e677e7.htm) |
 | 2026-09-08 | [2026年北京大学人口研究所2027年接收推荐免试硕士研究生的说明](https://ipr.pku.edu.cn/tzgg/2026-09-02/fe67c6057bfa4c0f9804920f060a7b14.htm) |
 | 2026-09-08 | [2026年北京大学国际关系学院推荐和接收2027年免试攻读研究生实施办法](https://www.sis.pku.edu.cn/docs/2026-09/f93bf5ae6b60488591e00a03e391f0a0.pdf) |
-| 2026-09-08 | [2026年北京大学中国语言文学系2027年接收推荐免试研究生的通知](https://chinese.pku.edu.cn/jyjx/zsxx/c1c96b7cca544d36b80ec8266755e2e2.htm) |
-| 2026-09-08 | [2026年北京大学新闻与传播学院接收2027年推荐免试研究生重要通知](https://sjc.pku.edu.cn/info/1038/15213.htm) |
-| 2026-09-08 | [2026年北京大学数学科学学院关于接收2027年推荐免试研究生的报名说明](https://math.pku.edu.cn/zygg/172744.htm) |
-| 2026-09-08 | [2026年北京大学环境科学与工程学院2027年接收推荐免试研究生通知](https://cese.pku.edu.cn/tzgg/146ab6f0bd73422bad506ac66763b74a.htm) |
+| 2026-09-08 | [2026年北京大学前沿交叉学科研究院区域与国别研究院关于接收2027年推荐免试（直博）研究生的说明](https://www.aais.pku.edu.cn/info/1350/20041.htm) |
+| 2026-09-08 | [2026年北京大学汇丰商学院接收2027年免试研究生（直博生）的通知](https://www.phbs.pku.edu.cn/info/1801/180531.htm) |
+| 2026-09-08 | [2026年北京大学环境与能源学院2027年接收推荐免试研究生说明](https://see.pkusz.edu.cn/info/1022/2082.htm) |
+| 2026-09-08 | [2026年北京大学地球与空间科学学院关于接收2027年推荐免试专业学位硕士研究生申请的说明](https://sess.pku.edu.cn/info/1106/32241.htm) |
 | 2026-09-08 | [2026年北京大学未来技术学院2027年工程硕博士培养改革专项博士研究生招生说明](https://future.pku.edu.cn/zsypy/tzggzspy/d9b1ea894cec4734b6ddf3345e167386.htm) |
 | 2026-09-08 | [2026年北京大学未来技术学院关于接收2027年推荐免试（学术型）博士研究生的招生说明](https://mp.weixin.qq.com/s/IlHOk9Mgi2My0c0n1DvFjg) |
 | 2026-09-08 | [2026年北京大学信息工程学院2027年接收推荐免试研究生说明](https://www.ece.pku.edu.cn/info/1025/3213.htm) |
 | 2026-09-08 | [2026年北京大学化学与分子工程学院2027年接收推荐免试研究生的通知](https://www.chem.pku.edu.cn/tzgg11/911fe0a0ebe74a18a3df696dd308677a.htm) |
 | 2026-09-08 | [2026年北京大学地球与空间科学学院关于接收2027年推荐免试学术型博士研究生申请的说明](https://sess.pku.edu.cn/info/1107/32201.htm) |
 | 2026-09-08 | [2026年北京大学力学与工程科学学院2027年工程硕博士培养改革专项博士研究生招生说明](https://mech.pku.edu.cn/jyjx/zyxwjy/zszn/db028dd5aefd4d85a99910306f3bb6bc.htm) |
-| 2026-09-08 | [2026年北京大学汇丰商学院接收2027年免试研究生（直博生）的通知](https://www.phbs.pku.edu.cn/info/1801/180531.htm) |
+| 2026-09-08 | [2026年北京大学数学科学学院关于接收2027年推荐免试研究生的报名说明](https://math.pku.edu.cn/zygg/172744.htm) |
 | 2026-09-08 | [2026年北京大学前沿交叉学科研究院与北京脑科学与类脑研究所联合培养项目关于接收2027年推荐免试（直博）研究生的说明](https://www.aais.pku.edu.cn/info/1350/20051.htm) |
 | 2026-09-08 | [2026年北京大学先进制造与机器人学院接收推荐免试研究生办法](https://mp.weixin.qq.com/s/bwzj64qbPJJF9I3sLyIRPg) |
 | 2026-09-08 | [2026年北京大学前沿交叉学科研究院碳中和研究院关于接收2027年推荐免试（直博）研究生的说明](https://www.aais.pku.edu.cn/info/1350/20091.htm) |
 | 2026-09-08 | [2026年北京大学材料科学与工程学院关于接收2027年推荐免试研究生的说明](https://www.mse.pku.edu.cn/info/1013/6644.htm) |
 | 2026-09-08 | [2026年北京大学生命科学学院关于2027年接收推荐免试研究生的通知](https://web.bio.pku.edu.cn/index.php?m=Index&a=news_cont&id=19059) |
 | 2026-09-08 | [2026年北京大学环境科学与工程学院2027年接收推荐免试研究生通知](https://mp.weixin.qq.com/s/5rO2TxqqkM7QWCgVjjH97w) |
+| 2026-09-08 | [2026年北京大学环境科学与工程学院2027年接收推荐免试研究生通知](https://cese.pku.edu.cn/tzgg/146ab6f0bd73422bad506ac66763b74a.htm) |
 | 2026-09-08 | [2026年北京大学医学部2027年接收推荐免试研究生办法](https://yjsy.bjmu.edu.cn/zslq/zsjzjml/e516364a7657471689321d70261f4685.htm) |
 | ~~2026-02-20~~ | [2025年北京大学国际关系学院巴黎政治大学项目2026年推荐免试硕士研究生通知](https://www.sis.pku.edu.cn/message27/1386840.htm) |
 
@@ -220,7 +223,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-09-11 | [2026年上海交通大学医学院2027级临床医学专业博士改革试点项目招生简章](https://www.shsmu.edu.cn/ygzs/info/1022/1232.htm) |
+| 2027-09-11 | [2026年上海交通大学医学院2027级临床医学专业博士改革试点项目招生简章](https://www.shsmu.edu.cn/ygzs/info/1022/1232.htm) |
 | 2026-09-08 | [2026年上海交通大学媒体与传播学院2027年全国优秀大学生“传媒菁英”申报开启](https://smc.sjtu.edu.cn/news_detail?search_eq_itype=20&id=40288188a054c18a01a0557c41960000) |
 | 2026-09-07 | [2026年上海交通大学董浩云智能管理与物流研究院（中美物流研究院）2027级学术型直博生招生简章](http://www.sugli.sjtu.edu.cn/stu_info/3032.html) |
 | ~~2026-08-17~~ | [2026年上海交通大学医学院2027年博士生“致远荣誉计划”报名通知](https://www.shsmu.edu.cn/yjsy/info/1059/8106.htm) |
@@ -232,19 +235,19 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年复旦大学生命科学学院中国农业科学院联合培养研究生项目未来农业高层次交叉创新人才培养专项2027年推免生预报名通知](https://life.fudan.edu.cn/fd/83/c28139a785795/page.htm) |
+| 2026-09-10 | [2026年复旦大学附属儿科医院2027级推荐免试研究生报名启动](https://mp.weixin.qq.com/s/E-n1AAUv9APYW0ukQPIFrA) |
 | 2026-09-10 | [2026年复旦大学上海医学院临床医学院招收2027级推荐免试研究生报名通知](https://gs-shmc.fudan.edu.cn/0b/d3/c35406a789459/page.htm) |
 | ~~2026-08-20~~ | [2026年复旦大学化学系推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-17~~ | [2026年复旦大学计算与智能创新学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
-| ~~2026-08-17~~ | [2026年复旦大学人类表型组研究院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-17~~ | [2026年复旦大学智能机器人与先进制造创新学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
+| ~~2026-08-17~~ | [2026年复旦大学人类表型组研究院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-17~~ | [2026年复旦大学药学院2027级推荐免试研究生报名截止时间延长的公告](https://spfdu.fudan.edu.cn/05/d6/c28477a787926/page.htm) |
 | ~~2026-08-17~~ | [2026年复旦大学人类表型组研究院2027级推免研究生报名通知](https://mp.weixin.qq.com/s/LORuhh-m_30GV8InqHUKlw) |
 | ~~2026-08-16~~ | [2026年复旦大学未来信息创新学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
-| ~~2026-08-15~~ | [2026年复旦大学生物技术学院2027级直博生招生报名通知](https://mp.weixin.qq.com/s/rPWqABhXAJrS-pMbHYzy1Q) |
 | ~~2026-08-15~~ | [2026年复旦大学生物技术学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
-| ~~2026-08-10~~ | [2026年复旦大学历史学系推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
+| ~~2026-08-15~~ | [2026年复旦大学生物技术学院2027级直博生招生报名通知](https://mp.weixin.qq.com/s/rPWqABhXAJrS-pMbHYzy1Q) |
 | ~~2026-08-10~~ | [2026年复旦大学基础医学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
-| ~~2026-08-10~~ | [2026年复旦大学护理学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
+| ~~2026-08-10~~ | [2026年复旦大学历史学系推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学全球公共政策研究院2027年推免生报名通知](https://igpp.fudan.edu.cn/04/aa/c18212a787626/page.htm) |
 | ~~2026-08-10~~ | [2026年复旦大学新闻学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学历史学系（含文史研究院）2027级推免研究生报名通知](https://history.fudan.edu.cn/info/1404/20941.htm) |
@@ -253,8 +256,8 @@
 | ~~2026-08-10~~ | [2026年复旦大学实验动物中心推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学法医学与法庭科学学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学马克思主义学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
+| ~~2026-08-10~~ | [2026年复旦大学护理学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学古籍整理研究所（中国古代文学研究中心）推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
-| ~~2026-08-10~~ | [2026年复旦大学文献信息中心推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学经济学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学国际金融学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学旅游学系推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
@@ -262,8 +265,8 @@
 | ~~2026-08-10~~ | [2026年复旦大学管理学院推免考核双系统填报全攻略](https://mp.weixin.qq.com/s/GHpiZ1RMCChIxvyGI8lQng?scene=1&click_id=1911087406) |
 | ~~2026-08-10~~ | [2026年复旦大学旅游学系2027级推免研究生招生报名通知](https://tourism.fudan.edu.cn/info/1404/13039.htm) |
 | ~~2026-08-10~~ | [2026年复旦大学全球公共政策研究院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
+| ~~2026-08-10~~ | [2026年复旦大学文献信息中心推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学国际文化交流学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
-| ~~2026-08-10~~ | [2026年复旦大学中国语言文学系推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学社会发展与公共政策学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学文物与博物馆学系推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学国际问题研究院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
@@ -271,6 +274,7 @@
 | ~~2026-08-10~~ | [2026年复旦大学国际关系与公共事务学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学哲学学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学外国语言文学学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
+| ~~2026-08-10~~ | [2026年复旦大学中国语言文学系推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学公共卫生学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学管理学院推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
 | ~~2026-08-10~~ | [2026年复旦大学放射医学研究所推免生招生预报名通知](https://gsas.fudan.edu.cn/tm/TXlIZWFydFdpbGxHb09udG0vc3F5eGtmY3gjYzk4ZjQxMTUtODk3NC00ZWI3LWE3NmEtMjI0OGM3YzY4MTA1) |
@@ -323,11 +327,11 @@
 | 2026-09-09 | [2026年南京大学地球科学与工程学院2027年重要专项推荐免试研究生报名的提醒](https://es.nju.edu.cn/dc/56/c4296a842838/page.htm) |
 | 2026-09-06 | [2026年南京大学能源与资源学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/KQfaXkIDIG4WfMZ_CqwfiA) |
 | 2026-09-06 | [2026年南京大学能源与资源学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/vLoIummGolRlt_9kK4VRrA) |
-| 2026-09-04 | [2026年南京大学法学院推迟2027年接收推荐免试研究生预报名系统关闭时间的通知](https://law.nju.edu.cn/info/1053/26981.htm) |
-| 2026-09-04 | [2026年南京大学社会学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/lvyKTHGzMxTGXsz1nN-ygw) |
-| 2026-09-04 | [2026年南京大学电子科学与工程学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/-4PKn_M1tjeQku4yuOsnPA) |
-| 2026-09-04 | [2026年南京大学建筑与城市规划学院接收推免生预报名](https://arch.nju.edu.cn/rcpy/yjs/pyfa/20260803/i406983.html) |
-| 2026-09-04 | [2026年南京大学电子科学与工程学院2027年接收推荐免试研究生预报名通知](https://ese.nju.edu.cn/d4/6d/c22673a840813/page.htm) |
+| ~~2026-09-04~~ | [2026年南京大学法学院推迟2027年接收推荐免试研究生预报名系统关闭时间的通知](https://law.nju.edu.cn/info/1053/26981.htm) |
+| ~~2026-09-04~~ | [2026年南京大学社会学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/lvyKTHGzMxTGXsz1nN-ygw) |
+| ~~2026-09-04~~ | [2026年南京大学电子科学与工程学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/-4PKn_M1tjeQku4yuOsnPA) |
+| ~~2026-09-04~~ | [2026年南京大学建筑与城市规划学院接收推免生预报名](https://arch.nju.edu.cn/rcpy/yjs/pyfa/20260803/i406983.html) |
+| ~~2026-09-04~~ | [2026年南京大学电子科学与工程学院2027年接收推荐免试研究生预报名通知](https://ese.nju.edu.cn/d4/6d/c22673a840813/page.htm) |
 | ~~2026-09-03~~ | [2026年南京大学政府管理学院2027年接收推荐免试研究生预报名通知](https://public.nju.edu.cn/sy/tzgg/20260804/i407002.html) |
 | ~~2026-09-03~~ | [2026年南京大学商学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/ECGKMBk22n0ooO8HwvcWpg) |
 | ~~2026-09-01~~ | [2026年南京大学集成电路学院2027年接收推荐免试研究生预报名通知](https://ic.nju.edu.cn/d4/5f/c59160a840799/page.htm) |
@@ -352,9 +356,11 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-09-24 | [2026年中国科学技术大学研究生院科学岛分院2027年接收推免生的通知](https://www.hf.cas.cn/sbpy/yjsc/tzgg/202608/t20260831_8268765.html) |
+| 2026-09-20 | [2026年中国科学技术大学国家卓越工程师学院（先进技术研究院）2027年推免生接收办法](https://iat.ustc.edu.cn/iat/x198/20260904/8063.html) |
 | 2026-09-11 | [2026年中国科学技术大学能源科学与技术学院（广州能源所）关于接收2027年接收推免生（含直博生）的通知](http://www.giec.cas.cn/yjsjy2016/zs2016/sszsxx/202609/t20260902_8276654.html) |
 | 2026-09-11 | [2026年中国科学技术大学能源科学与技术学院（广州能源所）关于接收2027年接收推免生（含直博生）的通知](https://mp.weixin.qq.com/s/q7Tr5GT5T-VhuHt3oIQzEA) |
 | 2026-09-10 | [2026年中国科学技术大学环境科学与光电技术学院2027年接收推免生的通知](https://env.ustc.edu.cn/2026/0902/c9571a751849/page.htm) |
+| 2026-09-10 | [2026年中国科学技术大学化学与材料科学学院推荐免试研究生预报名通知](https://scms.ustc.edu.cn/2026/0904/c14104a752220/page.htm) |
 | 2026-09-09 | [2026年中国科学技术大学人工智能与数据科学学院关于接收2027级推免生（含直博生）预面试报名的通知](https://saids.ustc.edu.cn/2026/0831/c15435a751553/page.htm) |
 | 2026-09-08 | [2026年中国科学技术大学材料科学与工程学院2027年接收推免生的通知](https://gs.imr.ac.cn/zs/zs_sszs/zs_sszs_tzgg/202608/t20260824_854503.html) |
 | 2026-09-05 | [2026年中国科学技术大学国家同步辐射实验室2026年接收推荐免试研究生公告](https://www.nsrl.ustc.edu.cn/2026/0728/c10985a748810/page.htm) |
@@ -365,39 +371,44 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-14 | [2026年武汉大学化学与分子科学学院接收2027年推荐免试研究生预报名的通知](https://chem.whu.edu.cn/info/1860/75751.htm) |
+| 2026-09-11 | [2026年武汉大学质量发展战略研究院2027年硕士研究生推免接收预报名通知](http://www.iqds.whu.edu.cn/info/1126/135625.htm) |
 | 2026-09-11 | [2026年武汉大学物理科学与技术学院接收2027年推荐免试研究生预报名通知](https://physics.whu.edu.cn/info/1236/75321.htm) |
-| 2026-09-10 | [2026年武汉大学计算机学院关于接收2027年推免生预报名的通知](https://cs.whu.edu.cn/info/1055/65521.htm) |
+| 2026-09-11 | [2026年武汉大学外国语言文学学院2027年接收推免研究生（含直博生）预报名通知](https://fls.whu.edu.cn/info/1008/58561.htm) |
+| 2026-09-10 | [2026年武汉大学集成电路学院2027年推荐免试生预报名工作通知](https://mp.weixin.qq.com/s/p_UWlRqotSMqyJilvfF7DQ) |
 | 2026-09-10 | [2026年武汉大学护理学院关于接收2027年推免研究生预报名的通知](https://sns.whu.edu.cn/info/1081/40733.htm) |
+| 2026-09-10 | [2026年武汉大学马克思主义学院关于2027年推免生接收预报名的通知](https://mp.weixin.qq.com/s/rZAdmPOXWfFfJTTBWCXafQ) |
+| 2026-09-10 | [2026年武汉大学马克思主义学院关于2027年推免生接收预报名的通知](https://marx.whu.edu.cn/info/1221/61481.htm) |
+| 2026-09-10 | [2026年武汉大学测绘学院关于2027年接收推荐免试研究生（含直博生）预报名的通知](https://www.sgg.whu.edu.cn/info/1380/45961.htm) |
 | 2026-09-10 | [2026年武汉大学公共卫生学院2027年接收推荐免试研究生预报名工作通知](https://sph.whu.edu.cn/info/1045/24991.htm) |
 | 2026-09-10 | [2026年武汉大学国家网络安全学院2027年接收推免生预报名的通知](https://mp.weixin.qq.com/s/OT-8gBDzcRGEIMYeuy8fCg) |
-| 2026-09-10 | [2026年武汉大学集成电路学院2027年推荐免试生预报名工作通知](https://mp.weixin.qq.com/s/p_UWlRqotSMqyJilvfF7DQ) |
-| 2026-09-10 | [2026年武汉大学马克思主义学院关于2027年推免生接收预报名的通知](https://marx.whu.edu.cn/info/1221/61481.htm) |
-| 2026-09-10 | [2026年武汉大学马克思主义学院关于2027年推免生接收预报名的通知](https://mp.weixin.qq.com/s/rZAdmPOXWfFfJTTBWCXafQ) |
-| 2026-09-10 | [2026年武汉大学测绘学院关于2027年接收推荐免试研究生（含直博生）预报名的通知](https://www.sgg.whu.edu.cn/info/1380/45961.htm) |
+| 2026-09-10 | [2026年武汉大学计算机学院关于接收2027年推免生预报名的通知](https://cs.whu.edu.cn/info/1055/65521.htm) |
 | 2026-09-10 | [2026年武汉大学新闻与传播学院关于2027年推免生接收预报名的通知](https://journal.whu.edu.cn/20260901059p) |
 | 2026-09-09 | [2026年武汉大学城市设计学院2027年接收攻读硕士学位推免生预报名的通知](https://sud.whu.edu.cn/info/1521/51191.htm) |
-| 2026-09-09 | [2026年武汉大学电气与自动化学院2027年推免生接收预报名的通知](https://eea.whu.edu.cn/info/1052/84441.htm) |
-| 2026-09-09 | [2026年武汉大学土木建筑工程学院2027年接收推免研究生预报名通知](https://civ.whu.edu.cn/info/1188/72121.htm) |
-| 2026-09-09 | [2026年武汉大学前沿交叉学科研究院2027年接收推免生预报名通知](https://aais.whu.edu.cn/info/2021/21561.htm) |
 | 2026-09-09 | [2026年武汉大学遥感信息工程学院关于接收2027年推荐免试研究生预报名的通知](https://rsgis.whu.edu.cn/info/1083/114870.htm) |
+| 2026-09-09 | [2026年武汉大学电气与自动化学院2027年推免生接收预报名的通知](https://eea.whu.edu.cn/info/1052/84441.htm) |
+| 2026-09-09 | [2026年武汉大学前沿交叉学科研究院2027年接收推免生预报名通知](https://aais.whu.edu.cn/info/2021/21561.htm) |
+| 2026-09-09 | [2026年武汉大学泰康医学院（基础医学院）接收2027年推免研究生预报名通知](https://wbm.whu.edu.cn/info/1462/73032.htm) |
 | 2026-09-09 | [2026年武汉大学湖北应用数学中心2026年接收推免生预报名通知](https://mp.weixin.qq.com/s/YwLs3oK3EW3X7Yqeb6JMVg) |
 | 2026-09-09 | [2026年武汉大学国家文化发展研究院2027年推免生接收预报名通知](https://nccc.whu.edu.cn/info/1311/9271.htm) |
 | 2026-09-09 | [2026年武汉大学中国传统文化研究中心关于2027年推免生预报名的通知](https://mp.weixin.qq.com/s/5CD3iQEyJvIgef66Zi7Jhw) |
-| 2026-09-08 | [2026年武汉大学资源与环境科学学院关于2027年研究生招生预推免的通知](https://sres.whu.edu.cn/info/3461/345651.htm) |
+| 2026-09-09 | [2026年武汉大学土木建筑工程学院2027年接收推免研究生预报名通知](https://civ.whu.edu.cn/info/1188/72121.htm) |
 | 2026-09-08 | [2026年武汉大学历史学院2027年推荐免试研究生预报名通知](https://history.whu.edu.cn/info/1053/36051.htm) |
 | 2026-09-08 | [2026年武汉大学人工智能学院关于2027年推免生接收预报名的通知](https://mp.weixin.qq.com/s/qCzn6636RpgeGxXF5_aSOg) |
+| 2026-09-08 | [2026年武汉大学资源与环境科学学院关于2027年研究生招生预推免的通知](https://sres.whu.edu.cn/info/3461/345651.htm) |
 | 2026-09-08 | [2026年武汉大学动力与机械学院2027年推免生接收预报名通知](https://pmc.whu.edu.cn/info/1089/172551.htm) |
 | 2026-09-08 | [2026年武汉大学人工智能学院关于2027年推免生接收预报名的通知](https://sai.whu.edu.cn/info/1601/20141.htm) |
 | 2026-09-08 | [2026年武汉大学中国边界与海洋研究院2027年推免生预报名通知](http://www.cibos.whu.edu.cn/index.php?id=2795) |
 | 2026-09-08 | [2026年武汉大学国际问题研究院2027年推免生预报名通知](http://www.iis.whu.edu.cn/index.php?id=3545) |
 | 2026-09-07 | [2026年武汉大学文学院2027年推荐免试研究生预报名通知](https://chinese.whu.edu.cn/info/1060/33961.htm) |
-| 2026-09-07 | [2026年武汉大学信息管理学院关于2027年推荐免试研究生预报名的公告](https://sim.whu.edu.cn/info/6011/115222.htm) |
 | 2026-09-07 | [2026年武汉大学测绘遥感信息工程全国重点实验室2027年推免生接收预报名工作通知](https://liesmars.whu.edu.cn/info/1058/69689.htm) |
+| 2026-09-07 | [2026年武汉大学数学与统计学院关于延长2027年接收推荐免试研究生预报名时间的通知](https://maths.whu.edu.cn/info/1020/169272.htm) |
+| 2026-09-07 | [2026年武汉大学信息管理学院关于2027年推荐免试研究生预报名的公告](https://sim.whu.edu.cn/info/6011/115222.htm) |
 | 2026-09-07 | [2026年武汉大学哲学学院2027年推荐免试研究生预报名通知](https://philosophy.whu.edu.cn/info/1049/135141.htm) |
 | 2026-09-07 | [2026年武汉大学信息管理学院关于2027年推荐免试研究生预报名的公告](https://mp.weixin.qq.com/s/ikihYujg3E-Rgblv3_EHNw) |
 | 2026-09-06 | [2026年武汉大学新型电力系统与国际标准研究院2027年接收推免生预报名通知](https://mp.weixin.qq.com/s/1KKlkNN0egqDaPpqYXlhMQ) |
 | 2026-09-06 | [2026年武汉大学电子信息学院2027年推免生接收预报名的通知](https://eis.whu.edu.cn/info/1921/61931.htm) |
-| 2026-09-04 | [2026年武汉大学高等研究院2027年接收推免生预报名通知](https://mp.weixin.qq.com/s/XW7oulglGf-qZFfNFNlqaQ) |
+| ~~2026-09-04~~ | [2026年武汉大学高等研究院2027年接收推免生预报名通知](https://mp.weixin.qq.com/s/XW7oulglGf-qZFfNFNlqaQ) |
 | ~~2026-09-03~~ | [2026年武汉大学数学与统计学院接收2027年推荐免试研究生预报名通知](https://maths.whu.edu.cn/info/1020/168912.htm) |
 | ~~2026-09-03~~ | [2026年武汉大学法学院2027年接收推荐免试硕士研究生预报名通知](https://golaw.whu.edu.cn/info/1004/14077.htm) |
 | ~~2026-08-26~~ | [2026年武汉大学社会学院2027年推免生接收预报名的通知](https://shxy.whu.edu.cn/info/1061/75392.htm) |
@@ -411,6 +422,16 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-14 | [2026年西安交通大学化学学院2027年接收推荐免试研究生实施细则](https://mp.weixin.qq.com/s/H-hUjJuiV5KywnlU5HGmYw) |
+| 2026-09-14 | [2026年西安交通大学电子与信息学部计算机科学与技术学院2027年招收推荐免试研究生工作实施细则](http://www.cs.xjtu.edu.cn/info/1233/3989.htm) |
+| 2026-09-14 | [2026年西安交通大学生命科学与技术学院2027年招收推荐免试研究生工作实施细则](https://slst.xjtu.edu.cn/info/1098/10355.htm) |
+| 2026-09-14 | [2026年西安交通大学外国语学院2027年推荐免试研究生招生工作实施细则](https://mp.weixin.qq.com/s/3Rk-5-ay17axotxOtqoGSw) |
+| 2026-09-14 | [2026年西安交通大学新闻与新媒体学院2027年接收推荐免试研究生工作实施细则](https://mp.weixin.qq.com/s/82W8CeMS-ZGtoWJsDS-Ilw) |
+| 2026-09-14 | [2026年西安交通大学人文社会科学学院2027年招收推荐免试研究生工作实施细则](https://rwxy.xjtu.edu.cn/info/1065/10528.htm) |
+| 2026-09-14 | [2026年西安交通大学公共政策与管理学院2027年接收推荐免试研究生实施细则](https://sppa.xjtu.edu.cn/info/1007/10307.htm) |
+| 2026-09-14 | [2026年西安交通大学法学院2027年接收推荐免试研究生工作实施细则](https://fxy.xjtu.edu.cn/info/1103/7731.htm) |
+| 2026-09-14 | [2026年西安交通大学管理学院2027年招收推荐免试研究生工作实施细则](https://mp.weixin.qq.com/s/OR-nDuCJuLujg6IaQ3GLxg) |
+| 2026-09-14 | [2026年西安交通大学能源与动力工程学院2027年推荐免试研究生招生工作实施细则](https://epe.xjtu.edu.cn/info/1483/5827.htm) |
 | 2026-09-14 | [2026年西安交通大学医学部2027年推荐免试研究生招生工作实施细则](https://medgs.xjtu.edu.cn/info/1108/15841.htm) |
 
 <div align="center">
@@ -421,14 +442,15 @@
 |:------------:|:---------|
 | 暂无 | [2026年中山大学海洋科学学院2027年接收优秀应届本科毕业生推荐免试攻读研究生考核实施细则](https://marine.sysu.edu.cn/article/10892) |
 | 2026-09-26 | [2026年中山大学孙逸仙纪念医院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://mp.weixin.qq.com/s/pFrVNESdF-rmXC1_mYFmvQ) |
-| 2026-09-20 | [2026年中山大学肿瘤防治中心2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://www.sysucc.org.cn/node/13539) |
 | 2026-09-20 | [2026年中山大学附属第五医院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://www.sysu5.cn/enrollment/graduate/14289) |
+| 2026-09-20 | [2026年中山大学肿瘤防治中心2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://www.sysucc.org.cn/node/13539) |
 | 2026-09-15 | [2026年中山大学附属第六医院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://www.sysu6h.cn/teaching/graduate/admission/14377) |
-| 2026-09-13 | [2026年中山大学社会学与人类学学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://ssa.sysu.edu.cn/article/4084) |
 | 2026-09-13 | [2026年中山大学农业与生物技术学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://ab.sysu.edu.cn/zh-hans/article/1432) |
+| 2026-09-13 | [2026年中山大学社会学与人类学学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://ssa.sysu.edu.cn/article/4084) |
 | 2026-09-13 | [2026年中山大学电子与通信工程学院关于2027年接收优秀应届本科毕业生推荐免试攻读研究生报名的通知](https://sece.sysu.edu.cn/zs/zs01/1421892.htm) |
 | 2026-09-12 | [2026年中山大学博雅学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://lac.sysu.edu.cn/zsxx/bgxz/1421916.htm) |
 | 2026-09-12 | [2026年中山大学博雅学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://mp.weixin.qq.com/s/voEjPYZKBeUnLqtl-FgSTQ) |
+| 2026-09-11 | [2026年中山大学生物医学工程学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知（第二批）](https://bme.sysu.edu.cn/noticezs/1421923.htm) |
 | 2026-09-10 | [2026年中山大学理学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://science.sysu.edu.cn/article/1448) |
 | 2026-09-10 | [2026年中山大学公共卫生学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://sph.sysu.edu.cn/article/3166) |
 | 2026-09-10 | [2026年中山大学柔性电子学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://sofe.sysu.edu.cn/zh-hans/article/511) |
@@ -445,7 +467,7 @@
 | 2026-09-06 | [2026年中山大学法学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://law.sysu.edu.cn/article/1146) |
 | 2026-09-06 | [2026年中山大学哲学系2027年接收优秀应届本科毕业生推荐免试攻读研究生预报名通知](https://philosophy.sysu.edu.cn/article/6565) |
 | 2026-09-06 | [2026年中山大学中法核工程与技术学院关于招收2027年校企联培工程硕博士专项研究生的报名通知](https://ifcen.sysu.edu.cn/article/1740) |
-| 2026-09-04 | [2026年中山大学人工智能学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://sai.sysu.edu.cn/article/747) |
+| ~~2026-09-04~~ | [2026年中山大学人工智能学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://sai.sysu.edu.cn/article/747) |
 | ~~2026-09-01~~ | [2026年中山大学微电子科学与技术学院关于做好推荐2027届优秀本科毕业生免试攻读研究生工作的通知](https://mst.sysu.edu.cn/article/1380) |
 | ~~2026-09-01~~ | [2026年中山大学药学院2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://sps.sysu.edu.cn/article/12459) |
 | ~~2026-09-01~~ | [2026年中山大学药学院（深圳）2027年接收优秀应届本科毕业生推荐免试攻读研究生报名通知](https://yxysz.sysu.edu.cn/zh-hans/article/1688) |
@@ -555,11 +577,20 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年北京理工大学空天科学与技术学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含本直博生）的通知](https://sae.bit.edu.cn/tzgggb/5f393e8c95d04aebbd9a4ed58d374daf.htm) |
+| 暂无 | [2026年北京理工大学信息与电子学院2027年接收应届本科毕业生推荐免试攻读研究生（含本直博生）办法](https://sie.bit.edu.cn/tzgg/zhtz/5968f1c2826449d4a15a4891dd218c03.htm) |
+| 2026-09-14 | [2026年北京理工大学经济学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含本直博生）办法](https://soe.bit.edu.cn/rcpy/xsybs/tzgg1/2a124e6c2c6940df82094a574c40dd62.htm) |
 | 2026-09-14 | [2026年北京理工大学光电学院2027年接收优秀应届本科毕业生推荐免试研究生（含本直博生）政策、复试内容和办法](https://opt.bit.edu.cn/tzgg2/tzgg/d29f773b1bc24301bcd83ba0b20f3244.htm) |
+| 2026-09-13 | [2026年北京理工大学材料学院2027年入学研究生推免报名通知](https://mse.bit.edu.cn/tzgg/59d1bbb7ac8d45488893b40013b360eb.htm) |
 | 2026-09-13 | [2026年北京理工大学网络空间安全学院2027年接收推荐免试研究生（含直博生）方案](https://cst.bit.edu.cn/xxfw/tzgg/58a147115f154c439a0851311c8fc0d0.htm) |
-| 2026-09-10 | [2026年北京理工大学医学科学与工程学院2027年接收推荐免试攻读研究生（含本直博生）的预报名通知](https://smt.bit.edu.cn/tzgg/16ee4b785ea44575a1866580ab48db60.htm) |
+| 2026-09-13 | [2026年北京理工大学空天网络信息技术研究所关于2027年接收优秀毕业生推荐免试攻读研究生（含直博生）预报名的通知](https://cnet.bit.edu.cn/tzgg/4781d136e475412890be85134d69fa85.htm) |
+| 2026-09-12 | [2026年北京理工大学机电学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含本直博）的通知](https://smen.bit.edu.cn/tzgg/8282e2bb5e714df8979f34fd26883d5b.htm) |
+| 2026-09-11 | [2026年北京理工大学生命学院2027年接收推免生预报名通知](https://ls.bit.edu.cn/xytz/c172d92472fb4e10bda66930ed43fcb7.htm) |
+| 2026-09-10 | [2026年北京理工大学物理学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）办法](https://physics.bit.edu.cn/tzgg4/6e324b7772794c5ab424bb2a14b06a2f.htm) |
 | 2026-09-10 | [2026年北京理工大学马克思主义学院接收2027年推荐免试研究生报名的通知](https://marx.bit.edu.cn/rcpy/zsxx/27a9a7f4c7ce49a29b5d830fbc5c59ae.htm) |
+| 2026-09-10 | [2026年北京理工大学机械与车辆学院2027年接收推荐免试攻读研究生（含本直博生）的预报名通知](https://me.bit.edu.cn/tzgg/f20da39c0bdf402297a3c978668fc2d7.htm) |
+| 2026-09-10 | [2026年北京理工大学医学科学与工程学院2027年接收推荐免试攻读研究生（含本直博生）的预报名通知](https://smt.bit.edu.cn/tzgg/16ee4b785ea44575a1866580ab48db60.htm) |
 | 2026-09-10 | [2026年北京理工大学先进结构技术研究院2027年接收推荐免试攻读研究生（含本直博生）的报名通知](https://mp.weixin.qq.com/s/cNC-VNoOf_hTLfz151wMaA) |
+| 2026-09-09 | [2026年北京理工大学外国语学院2027年接收推免生相关工作通知](https://sfl.bit.edu.cn/zsxx/sss/b5240ba9a36b4e9f9f60c09b1f965bbb.htm) |
 
 <div align="center">
 <h3>四川大学</h3>
@@ -567,6 +598,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-11 | [2026年四川大学分析测试中心2027年接收推荐免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/vAmZdUvHsGJeo5tDhPPWlg) |
+| 2026-09-10 | [2026年四川大学生命科学学院2027年接收推荐免试攻读研究生（含直博）预报名通知](https://life.scu.edu.cn/info/1063/5455.htm) |
+| 2026-09-10 | [2026年四川大学医学前沿科学中心2027年接收推荐免试攻读研究生预报名通知](https://yjs.cd120.com/contents/412/8015.html) |
+| 2026-09-10 | [2026年四川大学华西公共卫生学院/华西第四医院2027年接收推荐免试攻读研究生及直接攻读博士研究生预报名通知](https://mp.weixin.qq.com/s/TI9auSo_SAOQvzCEy7fzzQ) |
+| 2026-09-10 | [2026年四川大学建筑与环境学院2027年接收推荐免试攻读研究生预报名通知](https://acem.scu.edu.cn/info/1003/14197.htm) |
 | 2026-09-10 | [2026年四川大学华西临床医学院2027年接收推荐免试攻读研究生预报名通知](https://yjs.cd120.com/contents/412/8013.html) |
 | 2026-09-09 | [2026年四川大学卓越工程师学院2027年“工程硕博士培养改革专项”全日制招生简章](https://mp.weixin.qq.com/s/LNXXJzRUY_4ybK65PJG1Hw) |
 
@@ -605,14 +641,15 @@
 | 2026-09-10 | [2026年哈尔滨工业大学航天学院光学工程学科2027年推免生（含直博生）报名通知](https://sa.hit.edu.cn/2026/0731/c6582a398924/page.htm) |
 | 2026-09-10 | [2026年哈尔滨工业大学航天学院控制科学与工程学科2027年推免生（含直博生）报名通知](https://sa.hit.edu.cn/2026/0731/c6582a398912/page.htm) |
 | 2026-09-10 | [2026年哈尔滨工业大学航天学院材料科学与工程学科2027年推免生（含直博生）报名通知](https://sa.hit.edu.cn/2026/0731/c6582a398923/page.htm) |
-| 2026-09-10 | [2026年哈尔滨工业大学（深圳）智能学部低空科学技术研究院关于2027年接收优秀应届本科毕业生免试攻读研究生报名的通知](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1921) |
 | 2026-09-10 | [2026年哈尔滨工业大学环境学院2027年接收优秀应届本科毕业生免试攻读研究生报名通知](https://env.hit.edu.cn/2026/0723/c8344a398138/page.htm) |
+| 2026-09-10 | [2026年哈尔滨工业大学（深圳）智能学部低空科学技术研究院关于2027年接收优秀应届本科毕业生免试攻读研究生报名的通知](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1921) |
 | 2026-09-10 | [2026年哈尔滨工业大学（深圳）智能学部生态环境学院关于2027年接收优秀应届本科毕业生免试攻读研究生报名的通知](http://intelligence.hitsz.edu.cn/currency.jsp?urltype=news.NewsContentUrl&wbtreeid=1259&wbnewsid=1922) |
 | 2026-09-10 | [2026年哈尔滨工业大学（深圳）理学院2027年接收优秀应届本科毕业生免试攻读研究生报名通知](http://ssc.hitsz.edu.cn/info/1051/3121.htm) |
-| 2026-09-08 | [2026年哈尔滨工业大学（深圳）空天科技学院2027年接收优秀应届本科毕业生免试攻读研究生报名通知](http://issat.hitsz.edu.cn/info/1079/2974.htm) |
 | 2026-09-08 | [2026年哈尔滨工业大学（深圳）未来学部2027年接收优秀应届本科毕业生免试攻读研究生报名通知](http://future.hitsz.edu.cn/info/1029/2051.htm) |
+| 2026-09-08 | [2026年哈尔滨工业大学（深圳）空天科技学院2027年接收优秀应届本科毕业生免试攻读研究生报名通知](http://issat.hitsz.edu.cn/info/1079/2974.htm) |
 | 2026-09-07 | [2026年哈尔滨工业大学数学学院2027年接收优秀应届本科毕业生免试攻读研究生报名通知](https://math.hit.edu.cn/2026/0829/c10380a400272/page.htm) |
 | 2026-09-06 | [2026年哈尔滨工业大学物理学院2027年接收优秀应届本科毕业生免试攻读研究生报名通知](https://physics.hit.edu.cn/2026/0731/c12332a398823/page.htm) |
+| 2026-09-06 | [2026年哈尔滨工业大学计算学部关于接收2027年优秀应届本科毕业生免试攻读研究生补充报名的通知](https://computing.hit.edu.cn/2026/0905/c11271a401043/page.htm) |
 | 2026-09-05 | [2026年哈尔滨工业大学交通科学与工程学院2027年接收优秀应届本科毕业生免试攻读研究生报名通知](https://jtxy.hit.edu.cn/2026/0804/c6085a399193/page.htm) |
 | 2026-09-05 | [2026年哈尔滨工业大学生命科学和医学学部2027年接收优秀应届本科毕业生免试攻读研究生报名通知](https://life.hit.edu.cn/2026/0730/c6157a398719/page.htm) |
 | 2026-09-05 | [2026年哈尔滨工业大学电子与信息工程学院2027年接收优秀应届本科毕业生免试攻读研究生报名通知](https://seie.hit.edu.cn/2026/0722/c17148a398083/page.htm) |
@@ -691,6 +728,8 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-09-10 | [2026年中国人民大学高瓴人工智能学院2027年工程硕博士培养改革专项推免研究生招生报名通知](http://ai.ruc.edu.cn//newslist/notice/20260904001.html) |
+| 2026-09-10 | [2026年中国人民大学信息学院2027年工程硕博士培养改革专项推免研究生招生报名通知](http://info.ruc.edu.cn/xwgg/xygg/10a8912d36ec456ebbcded2c3427e03f.htm) |
+| 2026-09-10 | [2026年中国人民大学2027年工程硕博士培养改革专项推免研究生招生报名通知](https://pgs.ruc.edu.cn/info/1055/3622.htm) |
 | ~~2026-07-25~~ | [2026年中国人民大学社会学院2027年推免生接收工作报名通知](https://ssr.ruc.edu.cn/tzgg/db1835e2f171415f8020ed62cc3cb7ab.htm) |
 | ~~2026-07-25~~ | [2026年中国人民大学生态环境学院2027年推免生接收工作报名通知](https://envi.ruc.edu.cn/tzgg/f1cb30896cde4f48862ed0cce38a8bfe.htm) |
 | ~~2026-07-20~~ | [2026年中国人民大学哲学院2027年推免生接收工作报名通知](https://phi.ruc.edu.cn/zspy/yjs/yjszs/563f0c2af1f34e81a91b3a2b38c74938.htm) |
@@ -700,32 +739,32 @@
 | ~~2026-07-14~~ | [2026年中国人民大学高瓴人工智能学院2027年推免生接收工作报名通知](http://ai.ruc.edu.cn/newslist/notice/20260623106.html) |
 | ~~2026-07-14~~ | [2026年中国人民大学统计与大数据研究院2027年推免生接收工作报名通知](http://isbd.ruc.edu.cn/xwgg/51858a4dda8b49b7a75df0fa2dae0e9c.htm) |
 | ~~2026-07-13~~ | [2026年中国人民大学化学与生命资源学院2027年推免生接收工作报名通知](https://clr.ruc.edu.cn/zwwz/tzgg/7f250ce4a2e14faea5057c89ea6eeb9f.htm) |
-| ~~2026-07-10~~ | [2026年中国人民大学文学院2027年推免生接收工作报名通知](http://wenxueyuan.ruc.edu.cn/xwgg/gg/28b9b29b0da941e3864ea5d3f1dfbd91.htm) |
 | ~~2026-07-10~~ | [2026年中国人民大学外国语学院2027年推免生接收工作通知](http://fl.ruc.edu.cn/sy/xwtz/tzgg_s/588241f633cb47f5ba3ef5eb274ef9e0.htm) |
 | ~~2026-07-10~~ | [2026年中国人民大学纪检监察学院2027年推免生接收工作报名通知](http://dis.ruc.edu.cn/xydt/xygg/85130e04fd264bfc82d59c983d7e79a4.htm) |
+| ~~2026-07-10~~ | [2026年中国人民大学文学院2027年推免生接收工作报名通知](http://wenxueyuan.ruc.edu.cn/xwgg/gg/28b9b29b0da941e3864ea5d3f1dfbd91.htm) |
 | ~~2026-07-10~~ | [2026年中国人民大学公共管理学院2027年推免生接收工作报名通知](http://spap.ruc.edu.cn/zsxx/bkxsxss/3e6d26aabf05457395aa15b77aeea0c6.htm) |
 | ~~2026-07-09~~ | [2026年中国人民大学马克思主义学院2027年推免生接收工作报名通知](https://marx.ruc.edu.cn/sy/tzgg/1bef53c8dd0f4409924067df04ab1e49.htm) |
 | ~~2026-07-08~~ | [2026年中国人民大学数学学院2027年推免生接收工作报名通知](http://math.ruc.edu.cn/tzgg/4fdf9ee89e424fb59eca35385844e8b6.htm) |
 | ~~2026-07-08~~ | [2026年中国人民大学中共党史党建学院2027年推免生接收工作报名通知](http://dsdj.ruc.edu.cn/tzgg/4c0911b1f36748bf844e75e5b9556783.htm) |
-| ~~2026-07-07~~ | [2026年中国人民大学法学院2027年法学硕士项目推免生接收工作报名通知](http://www.law.ruc.edu.cn/home/t/?id=61543) |
+| ~~2026-07-07~~ | [2026年中国人民大学历史学院2027年推免生接收工作报名通知](http://lsxy.ruc.edu.cn/rcpy/zsxx/c06bf44dbe184a01b9014b8781fe7fca.htm) |
 | ~~2026-07-07~~ | [2026年中国人民大学经济学院2027年推免生接收工作报名通知](https://econ.ruc.edu.cn/jxgl/xsxyjs/zsxb/78034bbab7084ec28daa62aadb5f6e57.htm) |
 | ~~2026-07-07~~ | [2026年中国人民大学商学院关于2027年接收优秀应届本科毕业生免试攻读学术型研究生的报名通知](https://www.rmbs.ruc.edu.cn/jxxm/sb/sbxxgg/2221323dcf0f4388bda358d9b838d944.htm) |
 | ~~2026-07-07~~ | [2026年中国人民大学商学院关于2027年接收优秀应届本科毕业生免试攻读专业学位硕士项目（MPAcc/MIB/MV）的报名通知](https://www.rmbs.ruc.edu.cn/xwzx/tzgg/2fc454b54f9f42938524080db59e0453.htm) |
-| ~~2026-07-07~~ | [2026年中国人民大学历史学院2027年推免生接收工作报名通知](http://lsxy.ruc.edu.cn/rcpy/zsxx/c06bf44dbe184a01b9014b8781fe7fca.htm) |
 | ~~2026-07-07~~ | [2026年中国人民大学智慧治理学院2027年推免生接收工作报名通知](https://su.ruc.edu.cn/notices_list/notices/15fc4c82b76248cba633df8b58513b9f.htm) |
 | ~~2026-07-07~~ | [2026年中国人民大学法学院法律硕士专业学位2027年推免生接收工作报名通知](http://www.law.ruc.edu.cn/home/t/?id=61546) |
+| ~~2026-07-07~~ | [2026年中国人民大学法学院2027年法学硕士项目推免生接收工作报名通知](http://www.law.ruc.edu.cn/home/t/?id=61543) |
+| ~~2026-07-06~~ | [2026年中国人民大学统计学院2027年推免生接收工作报名通知](http://stat.ruc.edu.cn/tzgg/7dfa10e6e7e445da93373cc6fbd7bc12.htm) |
 | ~~2026-07-06~~ | [2026年中国人民大学应用经济学院2027年推免生接收工作报名通知](http://ae.ruc.edu.cn/xwzx/tzgg/346aa81f0f72405983a33a0098465ac3.htm) |
 | ~~2026-07-06~~ | [2026年中国人民大学财政金融学院2027年推免生接收工作报名通知（专业学位硕士项目）](http://sf.ruc.edu.cn/sylm/gg_sy/zsgg/f9cc7872c6d74d56b159dff1a2537560.htm) |
 | ~~2026-07-06~~ | [2026年中国人民大学财政金融学院2027年推免生接收工作报名通知（直博项目）](http://sf.ruc.edu.cn/sylm/gg_sy/zsgg/7c3fd5a12f644970b90ceef6b6c7727a.htm) |
 | ~~2026-07-06~~ | [2026年中国人民大学和平与发展学院2027年推免生接收工作报名通知](http://pd.ruc.edu.cn/zspy/zsxm/8753e0cda27143efa836a3f834ea5861.htm) |
 | ~~2026-07-06~~ | [2026年中国人民大学新闻学院2027年推免生接收工作报名通知](http://jcr.ruc.edu.cn/zw/zspx/zsxx/sss/90ef19f311384ad2b665190c7745ed64.htm) |
-| ~~2026-07-06~~ | [2026年中国人民大学统计学院2027年推免生接收工作报名通知](http://stat.ruc.edu.cn/tzgg/7dfa10e6e7e445da93373cc6fbd7bc12.htm) |
 | ~~2026-07-05~~ | [2026年中国人民大学法学院推荐免试2027年直接攻读博士学位研究生项目报名通知](http://www.law.ruc.edu.cn/home/t/?id=61540) |
 | ~~2026-07-05~~ | [2026年中国人民大学信息资源管理学院2027年推免生接收工作报名通知](https://irm.ruc.edu.cn/xydt/tzgg/0ccbae35104d40c78f166f4a08e3a892.htm) |
 | ~~2026-07-05~~ | [2026年中国人民大学国际关系学院2027年推免生接收工作报名通知](http://sis.ruc.edu.cn/ch/xxgkzw/tzggzw/8e60d0bd68ff44a88a9d91d5e69918fd.htm) |
-| ~~2026-07-05~~ | [2026年中国人民大学物理学院2027年推免生接收工作报名通知](http://www.phys.ruc.edu.cn/info/1055/2892.htm) |
-| ~~2026-07-05~~ | [2026年中国人民大学劳动人事学院2027年推免生接收工作报名通知](http://slhr.ruc.edu.cn/rcpy/ss/zsxx/1b121567af9d4335aae82d55a64a709e.htm) |
 | ~~2026-07-05~~ | [2026年中国人民大学信息学院2027年推免生接收工作报名通知](http://info.ruc.edu.cn/xwgg/xygg/0917bac9d080474ba20e5f024e9344e5.htm) |
+| ~~2026-07-05~~ | [2026年中国人民大学劳动人事学院2027年推免生接收工作报名通知](http://slhr.ruc.edu.cn/rcpy/ss/zsxx/1b121567af9d4335aae82d55a64a709e.htm) |
+| ~~2026-07-05~~ | [2026年中国人民大学物理学院2027年推免生接收工作报名通知](http://www.phys.ruc.edu.cn/info/1055/2892.htm) |
 
 <div align="center">
 <h3>北京师范大学</h3>
@@ -733,17 +772,29 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-09-11 | [2026年北京师范大学环境学院2027年推荐免试综合考核实施细则](https://env.bnu.edu.cn/xwtzgg/68c2fd7bad014f6da7ae141ea1031b7e.htm) |
-| 2026-09-11 | [2026年北京师范大学系统科学学院2027年推荐免试综合考核实施细则](https://sss.bnu.edu.cn/szszp/zsxx/59b4c9863dcc40e9b35d2a24f9bf5d51.htm) |
+| 2026-09-13 | [2026年北京师范大学未来技术学院2027年推荐免试硕士/博士研究生招生报名通知](https://mp.weixin.qq.com/s/KdW7v8MWjNpwJF_B5ffpSQ) |
+| 2026-09-13 | [2026年北京师范大学中华文化研究院京师书院2027年接收推荐免试硕士研究生公告](https://mp.weixin.qq.com/s/UgEltAJeqcHh3l8vn6WEog) |
 | 2026-09-11 | [2026年北京师范大学化学学院2027年接收校内外推荐免试硕士/博士研究生通知](http://www.chem.bnu.edu.cn/rcpy/yjs/yjszxxx/3cc74d5cb9ba48a5ab476525204ad19f.htm) |
 | 2026-09-11 | [2026年北京师范大学地理科学学部通知2027年接收校内外推荐免试硕士/博士研究生报名通知](https://geo.bnu.edu.cn/tzgg/1a7ab4a5878944c6b3decf5200ba9994.html) |
+| 2026-09-11 | [2026年北京师范大学政府管理学院2027年推荐免试综合考核实施细则](http://www.sg.bnu.edu.cn/tzgg1/559049d2fb1140eb8d41a22a48b4257f.htm) |
+| 2026-09-11 | [2026年北京师范大学环境学院2027年推荐免试综合考核实施细则](https://env.bnu.edu.cn/xwtzgg/68c2fd7bad014f6da7ae141ea1031b7e.htm) |
+| 2026-09-11 | [2026年北京师范大学系统科学学院2027年推荐免试综合考核实施细则](https://sss.bnu.edu.cn/szszp/zsxx/59b4c9863dcc40e9b35d2a24f9bf5d51.htm) |
+| 2026-09-10 | [2026年北京师范大学哲学学院2027年推荐免试综合考核实施细则](https://phil.bnu.edu.cn/tzgg/c515314e7cb44aa68ac81bd9b96ae8e8.html) |
 | 2026-09-10 | [2026年北京师范大学水科学研究院2027年推荐免试综合考核实施细则](https://cws.bnu.edu.cn/xwzx/tzgg/fa102d50cb724b829b8f9d8a46ef8cc7.htm) |
+| 2026-09-10 | [2026年北京师范大学生命科学学院2027年推荐免试综合考核实施细则](https://cls.bnu.edu.cn/xwzx/tzgg/d5edd0d8c6a546c3be2f65a040d17f8d.htm) |
 | 2026-09-10 | [2026年北京师范大学人工智能学院2027年接收校内外推荐免试硕士/博士研究生通知](https://ai.bnu.edu.cn/ggjxz/tzgg/df9187fe0a2b4ef4a98e9d0edf5d77b5.htm) |
-| 2026-09-10 | [2026年北京师范大学法学院2027年法律硕士（法学/非法学）专业学位研究生推荐免试综合考核实施细则](https://law.bnu.edu.cn/zspy/zyxwssyjszs/155d7e9f864f4d4ea8d0862fdf4959af.htm) |
+| 2026-09-10 | [2026年北京师范大学人工智能学院2027年接收校内外推荐免试硕士/博士研究生通知](https://mp.weixin.qq.com/s/nhnjm1EvLQEyz1sMZ5XcHA) |
 | 2026-09-10 | [2026年北京师范大学法学院2027年学术学位硕士研究生推荐免试综合考核实施细则](https://law.bnu.edu.cn/xwzx/xygg/zszp/zs/12fcfc91a77c46cf8b56277a0b013270.htm) |
+| 2026-09-10 | [2026年北京师范大学法学院2027年法律硕士（法学/非法学）专业学位研究生推荐免试综合考核实施细则](https://mp.weixin.qq.com/s/JOLlanTGpxe3hCcMz3GH8w) |
+| 2026-09-10 | [2026年北京师范大学统计学院关于接收2027年优秀应届本科毕业生免试攻读研究生的通知](https://stat.bnu.edu.cn/rcpy/bks_20210426195902596415/tzgg_20210426195902596415/1e4dfe10d76e4146a796916b9fecd096.htm) |
+| 2026-09-10 | [2026年北京师范大学法学院2027年法律硕士（法学/非法学）专业学位研究生推荐免试综合考核实施细则](https://law.bnu.edu.cn/zspy/zyxwssyjszs/155d7e9f864f4d4ea8d0862fdf4959af.htm) |
+| 2026-09-09 | [2026年北京师范大学经济与工商管理学院2027年学术学位硕士及博士推荐免试综合考核实施细则](https://bs.bnu.edu.cn/yjsjx/yjszsxx/fadacdf476354f7e98db48a2c06b8f18.html) |
 | 2026-09-09 | [2026年北京师范大学数学科学学院2027年推荐免试综合考核实施细则](https://math.bnu.edu.cn/yjshd/93cf6f2c10d240689b4ae168a835cbd9.htm) |
+| 2026-09-09 | [2026年北京师范大学经济与工商管理学院2027年推荐免试综合考核实施细则（专业硕士）](https://bs.bnu.edu.cn/zyxwssjyzx/zxgg2/90dad95514a04cd199aeca0ecf288f0d.html) |
+| 2026-09-08 | [2026年北京师范大学国际中文教育学院2027年推荐免试综合考核实施细则](https://gjzw.bnu.edu.cn/tzgg/cc2090fe3f3a42f8a7faf7f48e2d5d54.htm) |
 | 2026-09-08 | [2026年北京师范大学物理与天文学院2027年推荐免试综合考核实施细则](https://physics.bnu.edu.cn/tzgg/39eaf70d157a410e949fca489ebb067b.htm) |
 | 2026-09-07 | [2026年北京师范大学湾区国际商学院2027年推荐免试综合考核实施细则](https://bibs.bnu.edu.cn/news/notice/0c59f00b319941f4b41a8e82c25d3e15.htm) |
+| 2026-09-07 | [2026年北京师范大学外国语言文学学院2027年推荐免试综合考核实施细则](http://www.sfll.bnu.edu.cn/xwgg/tzgg/73f7b171d72c4167912eabff59a55d15.htm) |
 
 <div align="center">
 <h3>天津大学</h3>
@@ -781,26 +832,28 @@
 |:------------:|:---------|
 | 暂无 | [2026年南开大学电子信息与光学工程学院2027年接收推免生（含直博生）外语水平及本科专业范围要求](https://ceo.nankai.edu.cn/info/1099/4637.htm) |
 | 暂无 | [2026年南开大学社会学院关于2027年推荐免试（含直博）研究生招生可接收本科所属学科专业范围及外语水平要求的公告](https://shxy.nankai.edu.cn/info/1874/2839.htm) |
+| 2026-09-13 | [2026年南开大学文学院2027年推免预报名通知](https://wxy.nankai.edu.cn/2026/0904/c15920a601805/page.htm) |
 | 2026-09-12 | [2026年南开大学计算机学院、密码与网络空间安全学院2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://cc.nankai.edu.cn/2026/0709/c13297a600172/page.htm) |
 | 2026-09-11 | [2026年南开大学社会学院接收2027级推荐免试（不含直博）研究生预报名的通知](https://shxy.nankai.edu.cn/info/1874/2840.htm) |
+| 2026-09-09 | [2026年南开大学汉语言文化学院关于2027年推荐免试硕士研究生预报名的通知](https://hyxy.nankai.edu.cn/info/1011/3814.htm) |
 | 2026-09-08 | [2026年南开大学信息与传播学院关于2027年推荐免试硕士研究生预报名的通知](https://ic.nankai.edu.cn/2026/0903/c19738a601773/page.htm) |
 | 2026-09-08 | [2026年南开大学外国语学院关于2027年推荐免试硕士研究生预报名的通知](https://sfs.nankai.edu.cn/2026/0902/c4596a601705/page.htm) |
 | 2026-09-07 | [2026年南开大学法学院接收2027级推荐免试生预报名通知](https://law.nankai.edu.cn/2026/0904/c32077a601828/page.htm) |
 | 2026-09-07 | [2026年南开大学周恩来政府管理学院关于接收2027级推荐免试（不含直博）生预报名的通知](https://zfxy.nankai.edu.cn/info/1200/9436.htm) |
 | 2026-09-06 | [2026年南开大学旅游与服务学院2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://tas.nankai.edu.cn/info/1071/6815.htm) |
-| 2026-09-04 | [2026年南开大学电子信息与光学工程学院接收2027年优秀应届本科毕业生免试攻读研究生（含直博生）预报名的通知](https://ceo.nankai.edu.cn/info/1099/4648.htm) |
-| 2026-09-04 | [2026年南开大学前沿交叉学科研究院2027年接收优秀应届本科毕业生免试攻读博士生预报名通知](https://aais.nankai.edu.cn/2026/0821/c37162a601333/page.htm) |
-| 2026-09-04 | [2026年南开大学医学院医学研究生推荐免试预报名通知](https://medical.nankai.edu.cn/2026/0814/c28644a601212/page.htm) |
-| 2026-09-04 | [2026年南开大学陈省身数学研究所2027年接收优秀应届本科毕业生免试攻读研究生（含直博生）预报名通知](http://www.nim.nankai.edu.cn/2026/0825/c6602a601444/page.htm) |
+| ~~2026-09-04~~ | [2026年南开大学电子信息与光学工程学院接收2027年优秀应届本科毕业生免试攻读研究生（含直博生）预报名的通知](https://ceo.nankai.edu.cn/info/1099/4648.htm) |
+| ~~2026-09-04~~ | [2026年南开大学前沿交叉学科研究院2027年接收优秀应届本科毕业生免试攻读博士生预报名通知](https://aais.nankai.edu.cn/2026/0821/c37162a601333/page.htm) |
+| ~~2026-09-04~~ | [2026年南开大学医学院医学研究生推荐免试预报名通知](https://medical.nankai.edu.cn/2026/0814/c28644a601212/page.htm) |
+| ~~2026-09-04~~ | [2026年南开大学陈省身数学研究所2027年接收优秀应届本科毕业生免试攻读研究生（含直博生）预报名通知](http://www.nim.nankai.edu.cn/2026/0825/c6602a601444/page.htm) |
 | ~~2026-09-02~~ | [2026年南开大学卓越工程师学院工程硕博士培养改革专项（全日制）接收优秀应届本科毕业生免试攻读研究生（含直博）预报名的通知](https://cee.nankai.edu.cn/2026/0821/c37052a601337/page.htm) |
 | ~~2026-09-01~~ | [2026年南开大学软件学院2026年接收优秀应届本科毕业生免试攻读研究生报名通知](https://cs.nankai.edu.cn/info/1076/3673.htm) |
-| ~~2026-08-31~~ | [2026年南开大学商学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://bs.nankai.edu.cn/zsgz/list.htm) |
 | ~~2026-08-31~~ | [2026年南开大学物理科学学院2027年接收推荐免试研究生预报名的通知](https://physics.nankai.edu.cn/2026/0812/c25820a601184/page.htm) |
+| ~~2026-08-31~~ | [2026年南开大学商学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://bs.nankai.edu.cn/zsgz/list.htm) |
 | ~~2026-08-30~~ | [2026年南开大学组合数学中心接收2027年优秀应届本科毕业生免试攻读研究生（含直博生）预报名通知](https://cfc.nankai.edu.cn/2026/0815/c27446a601237/page.htm) |
 | ~~2026-08-30~~ | [2026年南开大学药学院2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://pharmacy.nankai.edu.cn/info/1035/3501.htm) |
+| ~~2026-08-28~~ | [2026年南开大学环境科学与工程学院2027年推荐免试研究生预报名通知](https://env.nankai.edu.cn/2026/0817/c12945a601262/page.htm) |
 | ~~2026-08-28~~ | [2026年南开大学生命科学学院2027年推荐免试研究生预报名通知](https://sky.nankai.edu.cn/2026/0812/c7809a601194/page.htm) |
 | ~~2026-08-28~~ | [2026年南开大学统计与数据科学学院2027年推免预报名通知](https://stat.nankai.edu.cn/2026/0811/c12324a601148/page.htm) |
-| ~~2026-08-28~~ | [2026年南开大学环境科学与工程学院2027年推荐免试研究生预报名通知](https://env.nankai.edu.cn/2026/0817/c12945a601262/page.htm) |
 | ~~2026-08-27~~ | [2026年南开大学马克思主义学院2027年接收优秀应届本科毕业生免试攻读研究生（含直博生）预报名的通知](https://cz.nankai.edu.cn/2026/0807/c22738a601026/page.htm) |
 | ~~2026-08-26~~ | [2026年南开大学国家创新与金融研究院（国家卓越金融人才培养基地）2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://mp.weixin.qq.com/s/ax-ANDlhi_phKs_Uqe92xw) |
 | ~~2026-08-25~~ | [2026年南开大学化学学院接收2027年优秀应届本科毕业生免试攻读研究生预报名通知](https://chem.nankai.edu.cn/2026/0708/c24089a600147/page.htm) |
@@ -822,6 +875,7 @@
 | 暂无 | [2026年山东大学环境研究院2027年推免生接收办法及复试安排](https://www.hj.sdu.edu.cn/info/1018/5260.htm) |
 | 暂无 | [2026年山东大学数学与统计学院2027年推荐免试硕士研究生接收办法](https://math.wh.sdu.edu.cn/info/1366/29994.htm) |
 | 暂无 | [2026年山东大学高等医学研究院2027年接收推荐免试硕士研究生预报名通知](http://www.amri.sdu.edu.cn/info/1012/4143.htm) |
+| 2026-09-15 | [2026年山东大学智能通信技术研究院2027年接收推荐免试研究生预报名的通知](https://iict.sdu.edu.cn/info/1027/1367.htm) |
 | 2026-09-14 | [2026年山东大学（威海）空间科学与技术学院2027年接收优秀应届本科毕业生免试攻读研究生（含直博生）复试工作安排](https://apd.wh.sdu.edu.cn/info/1334/20820.htm) |
 | 2026-09-14 | [2026年山东大学国际创新转化学院2027年接收推免生复试及录取相关通知](https://isie.qd.sdu.edu.cn/info/1052/5274.htm) |
 | 2026-09-14 | [2026年山东大学低空科学与工程学院2027年接收推荐免试研究生的复试和录取办法](https://ie.wh.sdu.edu.cn/info/1031/5564.htm) |
@@ -832,15 +886,16 @@
 | 2026-09-13 | [2026年山东大学商学院2027年接收推荐免试硕士研究生预报名通知](https://shxy.wh.sdu.edu.cn/info/1005/28443.htm) |
 | 2026-09-13 | [2026年山东大学政治学与公共管理学院2027年接收推荐免试硕士研究生预报名通知](https://pspa.sdu.edu.cn/info/1038/18888.htm) |
 | 2026-09-13 | [2026年山东大学前沿交叉科学青岛研究院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://frontier.qd.sdu.edu.cn/info/1011/9491.htm) |
+| 2026-09-13 | [2026年山东大学环境科学与工程学院2027年推免生接收办法及复试安排](https://huanke.sdu.edu.cn/info/1066/7412.htm) |
 | 2026-09-12 | [2026年山东大学考古学院（文化遗产研究院）2027年接收推荐免试硕士研究生预报名通知](http://www.whycyjy.sdu.edu.cn/info/1102/7368.htm) |
 | 2026-09-12 | [2026年山东大学海洋研究院2027年接收推荐免试研究生预报名及复试录取工作通知](https://www.imst.sdu.edu.cn/info/1080/8042.htm) |
-| 2026-09-12 | [2026年山东大学基础医学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](http://www.bmsgrade.sdu.edu.cn/info/1004/9210.htm) |
 | 2026-09-12 | [2026年山东大学电气工程学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.ee.sdu.edu.cn/info/1005/17133.htm) |
+| 2026-09-12 | [2026年山东大学基础医学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](http://www.bmsgrade.sdu.edu.cn/info/1004/9210.htm) |
 | 2026-09-11 | [2026年山东大学土建与水利学院2027年推荐免试预报名通知](https://www.tjsl.sdu.edu.cn/info/1056/14633.htm) |
 | 2026-09-11 | [2026年山东大学齐鲁交通学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.qltrans.sdu.edu.cn/info/1112/5721.htm) |
+| 2026-09-11 | [2026年山东大学法学院2027年接收推荐免试硕士研究生预报名通知](https://www.law.sdu.edu.cn/info/1053/16510.htm) |
 | 2026-09-11 | [2026年山东大学经济研究院2027年接收推荐免试硕士研究生预报名通知](http://www.cer.sdu.edu.cn/info/1035/12497.htm) |
 | 2026-09-11 | [2026年山东大学高等技术研究院/热科学与工程研究中心2027年接收推荐免试研究生预报名通知](https://sts.sdu.edu.cn/info/1031/2765.htm) |
-| 2026-09-11 | [2026年山东大学法学院2027年接收推荐免试硕士研究生预报名通知](https://www.law.sdu.edu.cn/info/1053/16510.htm) |
 | 2026-09-11 | [2026年山东大学计算机科学与技术学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.cs.sdu.edu.cn/info/1068/6891.htm) |
 | 2026-09-11 | [2026年山东大学控制科学与工程学院2027年接收推荐免试研究生预报名通知](https://control.sdu.edu.cn/info/1018/8238.htm) |
 | 2026-09-11 | [2026年山东大学浪潮人工智能学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.ai.sdu.edu.cn/info/1088/1524.htm) |
@@ -850,23 +905,24 @@
 | 2026-09-11 | [2026年山东大学软件学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.sc.sdu.edu.cn/info/1019/6068.htm) |
 | 2026-09-11 | [2026年山东大学国家糖工程技术研究中心2027年接收推荐免试研究生工作安排](http://www.glycoeng.sdu.edu.cn/info/1035/3957.htm) |
 | 2026-09-11 | [2026年山东大学信息科学与工程学院2027年接收推荐免试硕士研究生和本科直博生预报名通知及复试工作安排](https://www.ise.sdu.edu.cn/info/1096/16821.htm) |
-| 2026-09-10 | [2026年山东大学物理学院2027年接收推荐免试研究生和本科直博预报名通知](https://phy.sdu.edu.cn/info/1024/8532.htm) |
+| 2026-09-10 | [2026年山东大学中泰证券金融研究院2027年接收推荐免试硕士研究生预报名通知](https://mathfinance.sdu.edu.cn/info/1250/7745.htm) |
+| 2026-09-10 | [2026年山东大学数学学院2027年接收推荐免试硕士研究生预报名通知](https://www.math.sdu.edu.cn/info/1031/22054.htm) |
 | 2026-09-10 | [2026年山东大学网络空间安全学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://cst.qd.sdu.edu.cn/info/1023/4169.htm) |
 | 2026-09-10 | [2026年山东大学晶体材料研究院2027年接收推荐免试硕士研究生预报名通知](https://jty.sdu.edu.cn/info/1057/5011.htm) |
-| 2026-09-10 | [2026年山东大学数据科学研究院2027年接收推荐免试研究生预报名通知](https://dsi.sdu.edu.cn/info/1093/4664.htm) |
-| 2026-09-10 | [2026年山东大学数学学院2027年接收推荐免试硕士研究生预报名通知](https://www.math.sdu.edu.cn/info/1031/22054.htm) |
-| 2026-09-10 | [2026年山东大学集成电路学院2027年接收推荐免试硕士研究生预报名通知](https://ic.sdu.edu.cn/info/1036/5206.htm) |
 | 2026-09-10 | [2026年山东大学新一代半导体材料研究院2027年接收推荐免试硕士研究生预报名通知](https://dpt.sdu.edu.cn/info/1016/4541.htm) |
+| 2026-09-10 | [2026年山东大学数学学院数学国家高层次人才培养中心2027年接收推荐免试博士研究生预报名通知](https://mrc.sdu.edu.cn/info/1018/2112.htm) |
 | 2026-09-10 | [2026年山东大学集成电路学院2027年接收推荐免试硕士研究生预报名通知](https://mp.weixin.qq.com/s/K7lQ2MmmPH06jKtbv-ZaEg) |
-| 2026-09-10 | [2026年山东大学经济学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.econ.sdu.edu.cn/info/1084/13644.htm) |
+| 2026-09-10 | [2026年山东大学数据科学研究院2027年接收推荐免试研究生预报名通知](https://dsi.sdu.edu.cn/info/1093/4664.htm) |
+| 2026-09-10 | [2026年山东大学物理学院2027年接收推荐免试研究生和本科直博预报名通知](https://phy.sdu.edu.cn/info/1024/8532.htm) |
+| 2026-09-10 | [2026年山东大学集成电路学院2027年接收推荐免试硕士研究生预报名通知](https://ic.sdu.edu.cn/info/1036/5206.htm) |
 | 2026-09-10 | [2026年山东大学微生物技术研究院2027年接收推荐免试研究生预报名及复试录取工作通知](https://www.mbtechinst.qd.sdu.edu.cn/info/1051/11286.htm) |
 | 2026-09-10 | [2026年山东大学密码科学与工程学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://mp.weixin.qq.com/s/kExnDw_QW1mrnA7SwzUF7g) |
-| 2026-09-10 | [2026年山东大学数学学院数学国家高层次人才培养中心2027年接收推荐免试博士研究生预报名通知](https://mrc.sdu.edu.cn/info/1018/2112.htm) |
-| 2026-09-10 | [2026年山东大学中泰证券金融研究院2027年接收推荐免试硕士研究生预报名通知](https://mathfinance.sdu.edu.cn/info/1250/7745.htm) |
+| 2026-09-10 | [2026年山东大学经济学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.econ.sdu.edu.cn/info/1084/13644.htm) |
 | 2026-09-10 | [2026年山东大学数学与交叉科学研究中心2027年接收推荐免试硕士研究生预报名通知](http://www.mis.sdu.edu.cn/info/1233/5757.htm) |
 | 2026-09-10 | [2026年山东大学口腔医学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.dent.sdu.edu.cn/info/1024/14059.htm) |
-| 2026-09-10 | [2026年山东大学齐鲁医学院临床医学2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16551.htm) |
 | 2026-09-10 | [2026年山东大学生命科学学院2027年接收推荐免试硕士研究生预报名通知](https://lifesci.sdu.edu.cn/info/1022/13906.htm) |
+| 2026-09-10 | [2026年山东大学齐鲁医学院临床医学2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://qlyxjxgl.sdu.edu.cn/info/2003/16551.htm) |
+| 2026-09-10 | [2026年山东大学海洋学院2027年接收推荐免试硕士研究生预报名通知](https://mc.wh.sdu.edu.cn/info/1052/5331.htm) |
 | 2026-09-10 | [2026年山东大学哲学与社会发展学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.sps.sdu.edu.cn/info/1037/19096.htm) |
 | 2026-09-09 | [2026年山东大学历史学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](https://www.history.sdu.edu.cn/info/1023/7046.htm) |
 | 2026-09-08 | [2026年山东大学管理学院2027年接收推荐免试硕士研究生和本科直博生预报名通知](http://yjs.glxy.sdu.edu.cn/info/1013/1796.htm) |
@@ -878,7 +934,11 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2026年西北工业大学自动化学院2027年接收推荐免试研究生预报名的通知](https://zdhxy.nwpu.edu.cn/info/1042/36933.htm) |
 | 2026-09-20 | [2026年西北工业大学集成电路学院（微电子学院）2027年接收推荐免试研究生预报名的通知](https://weidianzi.nwpu.edu.cn/info/1138/18983.htm) |
+| 2026-09-17 | [2026年西北工业大学海洋研究院2027年接收推荐免试研究生预报名的通知](https://haiyang.nwpu.edu.cn/info/1034/5571.htm) |
+| 2026-09-16 | [2026年西北工业大学数学与统计学院2027年接收推荐免试研究生预报名的通知](https://math.nwpu.edu.cn/info/1051/48117.htm) |
+| 2026-09-15 | [2026年西北工业大学人工智能学院/无人系统技术研究院2027年接收推荐免试研究生预报名的通知](https://wurenxitong.nwpu.edu.cn/info/1108/14058.htm) |
 
 <div align="center">
 <h3>厦门大学</h3>
@@ -938,10 +998,14 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年中南大学商学院关于2026年推荐免试研究生（九月预推免）报名时间的说明](https://bs.csu.edu.cn/info/1045/26949.htm) |
+| 2026-09-12 | [2026年中南大学湘雅药学院2027年推荐优秀应届本科毕业生免试攻读研究生考核录取工作通知](https://mp.weixin.qq.com/s/PMzOtstRQ4XZ9Dx6J8xGig) |
 | 2026-09-10 | [2026年中南大学商学院关于2027年接收优秀应届本科毕业生免试攻读硕士研究生考核录取工作通知（学术学位）](https://bs.csu.edu.cn/info/1045/26951.htm) |
 | 2026-09-10 | [2026年中南大学商学院关于2027年接收优秀应届本科毕业生免试攻读硕士研究生考核选拔方案（会计专业学位）](https://bs.csu.edu.cn/info/1046/26953.htm) |
+| 2026-09-10 | [2026年中南大学商学院关于2027年接收优秀应届本科毕业生免试攻读硕士研究生考核录取工作通知（金融专硕）](https://bs.csu.edu.cn/info/1045/26973.htm) |
 | 2026-09-08 | [2026年中南大学湘雅二医院2027年推荐优秀应届本科毕业生免试攻读研究生考核录取工作通知](https://www.xyeyy.com/5/40/121/562/content_90056.html) |
+| 2026-09-08 | [2026年中南大学湘雅三医院2027年推荐优秀应届本科毕业生免试攻读研究生考核录取工作通知](https://www.xy3yy.com/notice/191925.html) |
 | 2026-09-08 | [2026年中南大学交通运输工程学院2027年推荐免试研究生预报名及考核工作通知](https://stte.csu.edu.cn/info/1059/7904.htm) |
+| 2026-09-08 | [2026年中南大学湘雅护理学院2027年推荐优秀应届本科毕业生免试攻读研究生考核录取工作通知](https://xynursing.csu.edu.cn/info/1215/7487.htm) |
 | 2026-09-07 | [2026年中南大学数学与统计学院2027年推荐优秀应届本科毕业生免试攻读研究生考核录取工作通知](https://math.csu.edu.cn/info/1730/13978.htm) |
 
 <div align="center">
@@ -959,25 +1023,27 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年中国农业大学食品科学与营养工程学院2027年接收优秀应届本科毕业生免试攻读研究生工作实施细则](https://spxy.cau.edu.cn/art/2026/7/24/art_51298_1123502.html) |
+| 暂无 | [2026年中国农业大学营养与健康系2027年工程硕博士专项招生通知](https://dnh.cau.edu.cn/art/2026/9/4/art_36934_1135428.html) |
 | 暂无 | [2026年中国农业大学植物保护学院2027年接收推荐免试研究生工作实施细则](https://cpp.cau.edu.cn/art/2026/8/28/art_25048_1134487.html) |
 | 暂无 | [2026年中国农业大学人文与发展学院2027年接收推荐免试研究生工作实施细则](https://cohd.cau.edu.cn/art/2026/7/20/art_22198_1123082.html) |
-| ~~2026-08-31~~ | [2026年中国农业大学理学院2027年接收推荐免试研究生工作实施细则](https://sci.cau.edu.cn/art/2026/8/28/art_40525_1134481.html) |
-| ~~2026-08-31~~ | [2026年中国农业大学土地科学与技术学院2027年接收推免生报名通知](https://clst.cau.edu.cn/art/2026/7/14/art_31131_1122453.html) |
+| 2026-09-07 | [2026年中国农业大学生物学院2027级工程硕博士专项招生工作通知](https://cbs.cau.edu.cn/art/2026/9/4/art_8729_1135469.html) |
+| ~~2026-08-31~~ | [2026年中国农业大学工学院关于2027年接收推荐免试研究生工作实施细则](https://coe.cau.edu.cn/art/2026/8/28/art_39155_1134494.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学图书馆2027年接收优秀应届本科毕业生免试攻读研究生工作实施细则](http://www.lib.cau.edu.cn/engine2/general/6898124/detail?engineInstanceId=840863&typeId=3308100&pageId=111677&websiteId=76037&currentBranch=0&wfwfid=23242&title=%25E5%259B%25BE%25E4%25B9%25A6%25E9%25A6%25862027%25E5%25B9%25B4%25E6%258E%25A5%25E6%2594%25B6%25E4%25BC%2598%25E7%25A7%2580%25E5%25BA%2594%25E5%25B1%258A%25E6%259C%25AC%25E7%25A7%2591%25E6%25AF%2595%25E4%25B8%259A%25E7%2594%259F%2B%25E5%2585%258D%25E8%25AF%2595%25E6%2594%25BB%25E8%25AF%25BB%25E7%25A0%2594%25E7%25A9%25B6%25E7%2594%259F%25E5%25B7%25A5%25E4%25BD%259C%25E5%25AE%259E%25E6%2596%25BD%25E7%25BB%2586%25E5%2588%2599&sign=18d6583029514da2de0b2bc999f701e4) |
 | ~~2026-08-31~~ | [2026年中国农业大学马克思主义学院2027年接收推荐免试研究生工作实施细则](https://cm.cau.edu.cn/art/2026/8/3/art_25483_1124426.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学动物医学院2027年接收推荐免试研究生工作实施细则](https://cvm.cau.edu.cn/art/2026/8/28/art_41942_1134513.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学草业科学与技术学院2027年接收推荐免试研究生工作实施细则](https://cgst.cau.edu.cn/art/2026/7/30/art_49907_1124042.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学农学院2027年接收推荐免试研究生工作实施细则](https://cab.cau.edu.cn/art/2026/7/16/art_48176_1122696.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学园艺学院2027年接收推荐免试研究生工作实施细则](https://yyxy.cau.edu.cn/art/2026/7/15/art_3227_1122598.html) |
-| ~~2026-08-31~~ | [2026年中国农业大学经济管理学院接收2027级推荐免试研究生工作实施细则](https://cem.cau.edu.cn/art/2026/7/16/art_34642_1122710.html) |
-| ~~2026-08-31~~ | [2026年中国农业大学工学院关于2027年接收推荐免试研究生工作实施细则](https://coe.cau.edu.cn/art/2026/8/28/art_39155_1134494.html) |
+| ~~2026-08-31~~ | [2026年中国农业大学理学院2027年接收推荐免试研究生工作实施细则](https://sci.cau.edu.cn/art/2026/8/28/art_40525_1134481.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学水利与智能工程学院2027年接收推荐免试研究生工作实施细则](https://water.cau.edu.cn/art/2026/8/28/art_45241_1134496.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学动物科学技术学院2027年接收推荐免试研究生工作实施细则](https://cast1.cau.edu.cn/art/2026/8/21/art_44406_1129944.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学资源与环境学院2027年接收推荐免试研究生工作实施细则](https://zihuan.cau.edu.cn/art/2026/8/6/art_49053_1124740.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学生物学院2027年接收推荐免试研究生工作实施细则](https://cbs.cau.edu.cn/art/2026/7/21/art_8729_1123189.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学营养与健康系2027年接收推荐免试研究生工作实施细则](https://dnh.cau.edu.cn/art/2026/7/17/art_36934_1122789.html) |
-| ~~2026-08-31~~ | [2026年中国农业大学资源与环境学院2027年接收推荐免试研究生工作实施细则资研生字20269号](https://zihuan.cau.edu.cn/art/2026/8/6/art_49557_1124743.html) |
+| ~~2026-08-31~~ | [2026年中国农业大学土地科学与技术学院2027年接收推免生报名通知](https://clst.cau.edu.cn/art/2026/7/14/art_31131_1122453.html) |
+| ~~2026-08-31~~ | [2026年中国农业大学经济管理学院接收2027级推荐免试研究生工作实施细则](https://cem.cau.edu.cn/art/2026/7/16/art_34642_1122710.html) |
 | ~~2026-08-31~~ | [2026年中国农业大学信息与电气工程学院2027年接收推荐免试研究生工作实施细则](https://ciee.cau.edu.cn/art/2026/8/27/art_50390_1134361.html) |
+| ~~2026-08-31~~ | [2026年中国农业大学资源与环境学院2027年接收推荐免试研究生工作实施细则资研生字20269号](https://zihuan.cau.edu.cn/art/2026/8/6/art_49557_1124743.html) |
 
 <div align="center">
 <h3>大连理工大学</h3>
@@ -1021,12 +1087,12 @@
 | 2026-09-14 | [2026年华东师范大学统计学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知](https://stat.ecnu.edu.cn/c3/29/c9708a770857/page.htm) |
 | 2026-09-13 | [2026年华东师范大学信息与电子工程学院（集成电路科学与工程学院）2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](https://ieeic.ecnu.edu.cn/c4/1e/c4170a771102/page.htm) |
 | 2026-09-13 | [2026年华东师范大学精密光谱科学与技术高等研究院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](http://www.lps.ecnu.edu.cn/c3/bb/c41792a771003/page.htm) |
-| 2026-09-11 | [2026年华东师范大学河口海岸全国重点实验室河口海岸科学研究院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](http://www.sklec.ecnu.edu.cn/node/8222) |
-| 2026-09-11 | [2026年华东师范大学医学与健康研究院2027年推荐免试招收研究生（含本科直博）预报名通知](https://mp.weixin.qq.com/s/qlorOkjnNR_tmNZNUQxhtQ) |
 | 2026-09-11 | [2026年华东师范大学公共管理学院2027年接收优秀应届本科毕业生推荐免试攻读研究生预报名通知](https://spm.ecnu.edu.cn/c2/e7/c42688a770791/page.htm) |
 | 2026-09-11 | [2026年华东师范大学经济与管理学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](https://sem.ecnu.edu.cn/c3/ba/c42845a771002/page.htm) |
-| 2026-09-11 | [2026年华东师范大学生命科学学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](https://life.ecnu.edu.cn/c3/aa/c18138a770986/page.htm) |
+| 2026-09-11 | [2026年华东师范大学河口海岸全国重点实验室河口海岸科学研究院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](http://www.sklec.ecnu.edu.cn/node/8222) |
 | 2026-09-11 | [2026年华东师范大学化学与分子工程学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](https://chem.ecnu.edu.cn/c4/20/c26579a771104/page.htm) |
+| 2026-09-11 | [2026年华东师范大学医学与健康研究院2027年推荐免试招收研究生（含本科直博）预报名通知](https://mp.weixin.qq.com/s/qlorOkjnNR_tmNZNUQxhtQ) |
+| 2026-09-11 | [2026年华东师范大学生命科学学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](https://life.ecnu.edu.cn/c3/aa/c18138a770986/page.htm) |
 | 2026-09-10 | [2026年华东师范大学物理学院量子科学与精密测量研究院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知](https://mp.weixin.qq.com/s/V_N2G8mtglCN40RMrF8jVA) |
 | 2026-09-10 | [2026年华东师范大学卓越工程师学院2027年接收优秀应届本科毕业生免试攻读研究生（含直接攻博）预报名通知](https://yjsy.ecnu.edu.cn/c7/d5/c42082a772053/page.htm) |
 | 2026-09-10 | [2026年华东师范大学空间人工智能学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知](https://geoai.ecnu.edu.cn/c3/bc/c48289a771004/page.htm) |
@@ -1041,9 +1107,9 @@
 | 2026-09-07 | [2026年华东师范大学外语学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](http://www.fl.ecnu.edu.cn/c3/ee/c11684a771054/page.htm) |
 | 2026-09-06 | [2026年华东师范大学马克思主义学院2027年接收优秀应届本科毕业生免试攻读研究生（含直接攻博）预报名通知](https://mks.ecnu.edu.cn/c4/21/c2707a771105/page.htm) |
 | 2026-09-05 | [2026年华东师范大学计算机科学与技术学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名的通知](http://www.cs.ecnu.edu.cn/c3/c2/c19867a771010/page.htm) |
-| 2026-09-04 | [2026年华东师范大学哲学系2027年接收优秀应届本科毕业生免试攻读硕士研究生（含本科直博）预报名的通知](http://www.philo.ecnu.edu.cn/c3/ca/c36259a771018/page.htm) |
-| 2026-09-04 | [2026年华东师范大学智能交互学院2027年招收推荐免试攻读研究生](https://sii.ecnu.edu.cn/c6/2d/c52126a771629/page.htm) |
-| 2026-09-04 | [2026年华东师范大学思勉人文高等研究院2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://mp.weixin.qq.com/s/-bQ2AxdtThBYzfyZUK4ukA) |
+| ~~2026-09-04~~ | [2026年华东师范大学哲学系2027年接收优秀应届本科毕业生免试攻读硕士研究生（含本科直博）预报名的通知](http://www.philo.ecnu.edu.cn/c3/ca/c36259a771018/page.htm) |
+| ~~2026-09-04~~ | [2026年华东师范大学智能交互学院2027年招收推荐免试攻读研究生](https://sii.ecnu.edu.cn/c6/2d/c52126a771629/page.htm) |
+| ~~2026-09-04~~ | [2026年华东师范大学思勉人文高等研究院2027年接收优秀应届本科毕业生免试攻读研究生预报名的通知](https://mp.weixin.qq.com/s/-bQ2AxdtThBYzfyZUK4ukA) |
 | ~~2026-09-03~~ | [2026年华东师范大学社会发展学院2027年接收优秀应届本科毕业生免试攻读研究生（含本科直博）预报名通知](https://soci.ecnu.edu.cn/c3/8f/c10663a770959/page.psp) |
 | ~~2026-09-03~~ | [2026年华东师范大学中国语言文学系2027年接收优秀应届本科毕业生免试攻读硕士研究生预报名的通知](https://zhwx.ecnu.edu.cn/c3/b6/c28583a770998/page.htm) |
 | ~~2026-09-03~~ | [2026年华东师范大学中国创意写作研究院2027年接收推荐免试攻读硕士生预报名通知](https://mp.weixin.qq.com/s/c7uGRc0qONRd46ST-8h7SQ) |
@@ -1076,10 +1142,10 @@
 | 暂无 | [2026年电子科技大学（深圳）高等研究院2026年“优秀大学生选拔计划”实施办法](https://sias.uestc.edu.cn/info/1235/6471.htm) |
 | 2026-09-10 | [2026年电子科技大学公共管理学院2027年接收优秀应届本科毕业生免试攻读研究生工作安排通知](https://spa.uestc.edu.cn/info/1152/9756.htm) |
 | 2026-09-10 | [2026年电子科技大学基础与前沿研究院2027年接收推免生工作通知来啦](https://mp.weixin.qq.com/s/nXRTZGThMNt9YguuFldXeA) |
-| 2026-09-07 | [2026年电子科技大学马克思主义学院关于2027年接收优秀应届本科毕业生免试攻读研究生工作安排通知](https://marxism.uestc.edu.cn/info/1012/4158.htm) |
 | 2026-09-07 | [2026年电子科技大学马克思主义学院关于2027年接收优秀应届本科毕业生免试攻读研究生工作安排通知](https://mp.weixin.qq.com/s/_YDb4VRxiyQyl1t2VVMulQ) |
-| 2026-09-04 | [2026年电子科技大学经济与管理学院2026年“优秀本科生选拔计划”实施办法](https://www.mgmt.uestc.edu.cn/info/1087/25939.htm) |
-| 2026-09-04 | [2026年电子科技大学人文社科高等研究院2026年“优秀本科生选拔计划”报名通知](https://mp.weixin.qq.com/s/JPXY3WmWFeyl8E3EPNFflg) |
+| 2026-09-07 | [2026年电子科技大学马克思主义学院关于2027年接收优秀应届本科毕业生免试攻读研究生工作安排通知](https://marxism.uestc.edu.cn/info/1012/4158.htm) |
+| ~~2026-09-04~~ | [2026年电子科技大学经济与管理学院2026年“优秀本科生选拔计划”实施办法](https://www.mgmt.uestc.edu.cn/info/1087/25939.htm) |
+| ~~2026-09-04~~ | [2026年电子科技大学人文社科高等研究院2026年“优秀本科生选拔计划”报名通知](https://mp.weixin.qq.com/s/JPXY3WmWFeyl8E3EPNFflg) |
 | ~~2026-09-01~~ | [2026年电子科技大学电子科学与工程学院2026年“优秀本科生选拔计划”（第二批次）](https://www.ese.uestc.edu.cn/info/5085/23461.htm) |
 | ~~2026-08-31~~ | [2026年电子科技大学航空航天学院“2026年优秀本科生计划”选拔实施办法](https://www.iaa.uestc.edu.cn/info/1143/6972.htm) |
 | ~~2026-08-30~~ | [2026年电子科技大学资源与环境学院2026年“优秀大学生选拔计划”实施办法](https://www.sre.uestc.edu.cn/info/1063/10590.htm) |
@@ -1102,6 +1168,7 @@
 | 暂无 | [2026年湖南大学法学院2027年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/3vcx6bFIznYkzgfyA0_qPw) |
 | 2026-09-15 | [2026年湖南大学金融与统计学院2027年接收推荐免试研究生（含直博生）预报名通知](https://jt.hnu.edu.cn/info/1089/9144.htm) |
 | 2026-09-14 | [2026年湖南大学生命医学交叉研究院2027年接收推荐免试研究生（含直博生）预报名通知](https://smyjy.hnu.edu.cn/info/1137/2398.htm) |
+| 2026-09-14 | [2026年湖南大学马克思主义学院2027年招收推荐免试攻读研究生（含直博生）预报名通知](https://marx.hnu.edu.cn/info/1034/3723.htm) |
 | 2026-09-14 | [2026年湖南大学公共管理学院2027年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/jyQ99lWUCDL5F2CF7lBsOg) |
 | 2026-09-13 | [2026年湖南大学生物学院2027年接收推荐免试研究生（含直博生）预报名通知](https://bio.hnu.edu.cn/info/1285/8193.htm) |
 | 2026-09-13 | [2026年湖南大学岳麓书院2027年接收推荐免试研究生（含直博生）预报名通知](https://ylsy.hnu.edu.cn/info/1099/11292.htm) |
@@ -1110,10 +1177,10 @@
 | 2026-09-11 | [2026年湖南大学中国语言文学学院2027年招收推荐免试攻读研究生（含直博生）报名公告](https://wxy.hnu.edu.cn/info/1041/5898.htm) |
 | 2026-09-10 | [2026年湖南大学法学院2027年接收推荐免试研究生（含直博生）预报名通知](https://law.hnu.edu.cn/info/1182/19760.htm) |
 | 2026-09-10 | [2026年湖南大学环境科学与工程学院2027年接收推荐免试研究生（含直博生）预报名通知](https://ee.hnu.edu.cn/info/1002/75351.htm) |
-| 2026-09-09 | [2026年湖南大学数学学院2027年接收推荐免试研究生（含直博生）预报名通知](https://math.hnu.edu.cn/info/1071/6973.htm) |
 | 2026-09-09 | [2026年湖南大学隆平农学院2027年招收推荐免试攻读研究生（含直博生）复试录取工作实施细则](https://mp.weixin.qq.com/s/hw9hGFUH99VrPI_GPYDM6Q) |
 | 2026-09-09 | [2026年湖南大学工商管理学院2027年接收推荐免试研究生预报名公告（学术学位）](https://ibschool.hnu.edu.cn/info/11200/99099.htm) |
 | 2026-09-09 | [2026年湖南大学工商管理学院2027年接收推荐免试研究生预报名公告（MPAcc）](https://mp.weixin.qq.com/s/yWXKz4ZqJ-5cx2UbVPydUg) |
+| 2026-09-09 | [2026年湖南大学数学学院2027年接收推荐免试研究生（含直博生）预报名通知](https://math.hnu.edu.cn/info/1071/6973.htm) |
 | 2026-09-06 | [2026年湖南大学电气与信息工程学院招收2027年推荐免试攻读研究生（含硕士生、直博生）复试录取工作实施细则](https://eeit.hnu.edu.cn/info/1184/11049.htm) |
 | 2026-09-06 | [2026年湖南大学人工智能与机器人学院2027年接收推荐免试研究生（含直博生）预报名通知](https://robotics.hnu.edu.cn/info/1074/4168.htm) |
 
@@ -1125,6 +1192,7 @@
 |:------------:|:---------|
 | 暂无 | [2026年重庆大学生物工程学院推免研究生预报名公告](https://bio.cqu.edu.cn/info/1355/6687.htm) |
 | 暂无 | [2026年重庆大学附属人民医院推免研究生招生简章](https://mp.weixin.qq.com/s/he1KOLCWAhBAohjxaCzRWQ) |
+| 2026-09-16 | [2026年重庆大学化学化工学院2027年推荐免试攻读研究生（含直博生）招生预报名公告](https://mp.weixin.qq.com/s/AdhA4vC_wE-_ZZTn62YwuA) |
 | 2026-09-15 | [2026年重庆大学材料科学与工程学院2027年推荐免试研究生（含直博生）招生预报名通知](https://cmse.cqu.edu.cn/info/1687/9855.htm) |
 | 2026-09-12 | [2026年重庆大学能源与动力工程学院2027年推荐免试研究生（含直博生）招生预报名公告](https://mp.weixin.qq.com/s/9ZolkTpJtADzIt9spe7GTA) |
 | 2026-09-10 | [2026年重庆大学国家卓越工程师学院2027年推荐免试研究生招生预报名公告（重庆卓越专项）](https://mp.weixin.qq.com/s/UJjQ7lL-mF1jpfr_6B_FEg) |
@@ -1142,26 +1210,26 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-09-20 | [2026年南方科技大学生物医学工程系2027级推免生（含直博生）预报名通知](https://mp.weixin.qq.com/s/8KkhSgDfMrAm76DweuXnIA) |
 | 2026-09-20 | [2026年南方科技大学公共卫生及应急管理学院接收2027级推荐免试研究生预报名通知](https://sph.sustech.edu.cn/news/detail/555.html?lang=zh-cn&cid=131) |
+| 2026-09-20 | [2026年南方科技大学生物医学工程系2027级推免生（含直博生）预报名通知](https://mp.weixin.qq.com/s/8KkhSgDfMrAm76DweuXnIA) |
 | 2026-09-20 | [2026年南方科技大学公共卫生及应急管理学院推免预报名南方科技大学公共卫生及应急管理学院接收2027级推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/vWdUEwnh0nAz3vQlxcsY6A) |
 | 2026-09-10 | [2026年南方科技大学前沿生物技术研究院2027年推荐免试研究生预报名通知](https://iab.sustech.edu.cn/Announce-detail-id-64.html) |
 | 2026-09-06 | [2026年南方科技大学地球与空间科学系2027级推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/bELEn9q6ekZoBnuD3aGOzg) |
 | 2026-09-06 | [2026年南方科技大学地球与空间科学系2027级推荐免试研究生（含直博生）预报名通知](https://ess.sustech.edu.cn/New-detail-id-1345.html) |
 | 2026-09-06 | [2026年南方科技大学化学系2027级推荐免试入学研究生（含直博生）预报名通知](https://chem.sustech.edu.cn/?l=zh-cn#/common/newsAndNoticeDetail?current_id=40&id=839) |
 | 2026-09-06 | [2026年南方科技大学化学系接收2027年推荐免试入学研究生（国优计划）预报名通知](https://mp.weixin.qq.com/s/rijxOdeWkRTVj9VfgTmIaA) |
-| 2026-09-04 | [2026年南方科技大学创新创意设计学院2027级推荐免试入学研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/TATpFg1ACOBdM9rsFPRmOg) |
+| ~~2026-09-04~~ | [2026年南方科技大学创新创意设计学院2027级推荐免试入学研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/TATpFg1ACOBdM9rsFPRmOg) |
 | ~~2026-09-01~~ | [2026年南方科技大学海洋科学与工程系2027级推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/CSDfQi4mFBIAhBQVyu_O8Q) |
 | ~~2026-09-01~~ | [2026年南方科技大学力学与航空航天工程系开始接收2027年预推免研究生（含直博生）报名通知](https://mp.weixin.qq.com/s/oHAtD-jY1WfjqHg_TB5S2A) |
 | ~~2026-09-01~~ | [2026年南方科技大学创新创业学院接收2027级推荐免试研究生预报名通知](http://ie-school.sustech.edu.cn/page/content?id=713) |
-| ~~2026-08-31~~ | [2026年南方科技大学物理系接收2027年推荐免试入学研究生（含直博生）预报名通知](https://phy.sustech.edu.cn/news/detail/5357.html?lang=zh-cn) |
+| ~~2026-08-31~~ | [2026年南方科技大学商学院2027级推荐免试入学研究生（含直博生）预报名通知](https://business.sustech.edu.cn/web/note_details.php?id=96) |
+| ~~2026-08-31~~ | [2026年南方科技大学电子与电气工程系2027级推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/5hmEI0MGWP_jfr_i4HXAfw) |
 | ~~2026-08-31~~ | [2026年南方科技大学自动化与智能制造学院-工程硕博/校企联培2027级推荐免试研究生（含直博生）预报名通知](https://aim.sustech.edu.cn/Article-detail-id-993-typeid-7.html) |
 | ~~2026-08-31~~ | [2026年南方科技大学国家卓越工程师学院2027级推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/kNUZCJr55tVjqUVk9Y67lw) |
 | ~~2026-08-31~~ | [2026年南方科技大学深港微电子学院接收2027级推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/p9QdSnhvbnqEKeDBs7MN7w) |
-| ~~2026-08-31~~ | [2026年南方科技大学商学院2027级推荐免试入学研究生（含直博生）预报名通知](https://business.sustech.edu.cn/web/note_details.php?id=96) |
-| ~~2026-08-31~~ | [2026年南方科技大学电子与电气工程系2027级推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/5hmEI0MGWP_jfr_i4HXAfw) |
-| ~~2026-08-31~~ | [2026年南方科技大学计算机科学与工程系2027年国优计划研究生招生预报名通知](https://cse.sustech.edu.cn/notices/3776.html) |
 | ~~2026-08-31~~ | [2026年南方科技大学数学系接收2027级推荐免试研究生（含直博生）预报名通知](https://math.sustech.edu.cn/graduate_enrollment/13658) |
+| ~~2026-08-31~~ | [2026年南方科技大学物理系接收2027年推荐免试入学研究生（含直博生）预报名通知](https://phy.sustech.edu.cn/news/detail/5357.html?lang=zh-cn) |
+| ~~2026-08-31~~ | [2026年南方科技大学计算机科学与工程系2027年国优计划研究生招生预报名通知](https://cse.sustech.edu.cn/notices/3776.html) |
 | ~~2026-08-31~~ | [2026年南方科技大学计算机科学与工程系2027年接收推荐免试研究生（含直博生）预报名通知](https://cse.sustech.edu.cn/notices/3775.html) |
 | ~~2026-08-31~~ | [2026年南方科技大学商学院2027级推荐免试入学研究生（含直博生）预报名第二次通知](https://mp.weixin.qq.com/s/K4LW-UlL0PyGLyQnfVYHFw) |
 | ~~2026-08-31~~ | [2026年南方科技大学商学院2027级推荐免试入学研究生（含直博生）预报名通知](https://business.sustech.edu.cn/web/finance/article-show.php?id=42) |
@@ -1194,8 +1262,8 @@
 | 2026-09-06 | [2026年北京科技大学前沿交叉科学技术研究院2027年推免生预报名活动通知](https://qy.ustb.edu.cn/tzgg/4696a16341184571b3a7817b7e548e36.htm) |
 | 2026-09-06 | [2026年北京科技大学科技史与文化遗产研究院2027年接收推荐免试硕士研究生（含直博生）预报名通知](https://ihmm.ustb.edu.cn/tzgg/74465910b7c2450bb85671bbf0f7c4e6.htm) |
 | 2026-09-06 | [2026年北京科技大学化学与生物工程学院接收2027年推荐免试硕士研究生（含直博生）预报名的通知](https://huasheng.ustb.edu.cn/tzgg/a4b9384c341d4b5ba7201f1b8b73f3ed.htm) |
-| 2026-09-04 | [2026年北京科技大学文法学院接收2027年全日制硕士推免生预报名通知](https://wenfa.ustb.edu.cn/xydt/tzgg/a21632c64f5b46e5a8a2cafc01753676.htm) |
-| 2026-09-04 | [2026年北京科技大学资源与安全工程学院2027年接收推荐免试硕士研究生（含直博生）预报名通知](https://srse.ustb.edu.cn/info/1099/9441.htm) |
+| ~~2026-09-04~~ | [2026年北京科技大学文法学院接收2027年全日制硕士推免生预报名通知](https://wenfa.ustb.edu.cn/xydt/tzgg/a21632c64f5b46e5a8a2cafc01753676.htm) |
+| ~~2026-09-04~~ | [2026年北京科技大学资源与安全工程学院2027年接收推荐免试硕士研究生（含直博生）预报名通知](https://srse.ustb.edu.cn/info/1099/9441.htm) |
 | ~~2026-09-03~~ | [2026年北京科技大学自动化学院2027年接收推荐免试硕士研究生（含直博生）预报名的通知](https://saee.ustb.edu.cn/tzgg/801ffd7818344cad94c4fe2cad9e0389.htm) |
 | ~~2026-09-03~~ | [2026年北京科技大学材料科学与工程学院2027年推免生预报名活动通知](https://mse.ustb.edu.cn/tzgg/5ba321b3486e4024b1e13b3131cebe75.htm) |
 | ~~2026-09-03~~ | [2026年北京科技大学顺德创新学院2027年接收推荐免试硕士研究生预报名的通知](https://sd.ustb.edu.cn/tzgg/ddc70d67c2b845e9b337a265d7d0f473.htm) |
@@ -1358,6 +1426,14 @@
 | 2026-09-10 | [2026年西安电子科技大学计算机科学与技术学院2027年推荐免试研究生招生预报名的通知](https://cs.xidian.edu.cn/info/1003/25704.htm) |
 
 <div align="center">
+<h3>北京交通大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-11 | [2026年北京交通大学经济管理学院接收2027年推荐免试硕士生（博士）工作进度安排预告](https://mba.bjtu.edu.cn/show-357-10490.html) |
+
+<div align="center">
 <h3>上海科技大学</h3>
 </div>
 
@@ -1386,20 +1462,22 @@
 | 暂无 | [2026年苏州大学物理科学与技术学院关于接收2027级推荐免试研究生（含直博生）预报名的通知](https://physics.suda.edu.cn/_t541/da/e5/c32941a711397/page.htm) |
 | 暂无 | [2026年苏州大学未来科学与工程学院关于接收2027级推荐免试研究生（含直博生）预报名的通知](https://future.suda.edu.cn/dc/eb/c30836a711915/page.htm) |
 | 暂无 | [2026年苏州大学商学院关于接收2027级推荐免试研究生（含直博生）预报名的通知](https://sxy.suda.edu.cn/dc/d3/c16518a711891/page.htm) |
-| 2026-09-15 | [2026年苏州大学功能纳米与软物质研究院2027年FUNSOM接收推荐免试研究生预报名的通知](https://funsom.suda.edu.cn/da/70/c2717a711280/page.htm) |
-| 2026-09-15 | [2026年苏州大学金螳螂建筑学院关于接收2027年推荐免试研究生预报名的通知](https://arch.suda.edu.cn/da/82/c5572a711298/page.htm) |
-| 2026-09-15 | [2026年苏州大学电子信息学院2026年研究生招生线上宣讲会与2027级推免预报名工作的通知](https://dzxx.suda.edu.cn/da/86/c8244a711302/page.htm) |
-| 2026-09-15 | [2026年苏州大学光电科学与工程学院接收2027级推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/QNTjeUoRlLooj9suaXf8uA) |
-| 2026-09-15 | [2026年苏州大学纺织与服装工程学院关于接收2027级推荐免试研究生预报名的通知](https://textile.suda.edu.cn/da/e7/c6584a711399/page.htm) |
-| 2026-09-15 | [2026年苏州大学金属材料与先进制造学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
-| 2026-09-15 | [2026年苏州大学数学科学学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
 | 2026-09-15 | [2026年苏州大学生物医学研究院2027年推荐免试研究生欢迎报考](https://ibms.suda.edu.cn/de/53/c3465a712275/page.htm) |
-| 2026-09-15 | [2026年苏州大学国际创新药学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
-| 2026-09-15 | [2026年苏州大学附属儿童医院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
-| 2026-09-15 | [2026年苏州大学苏州医学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
+| 2026-09-15 | [2026年苏州大学功能纳米与软物质研究院2027年FUNSOM接收推荐免试研究生预报名的通知](https://funsom.suda.edu.cn/da/70/c2717a711280/page.htm) |
+| 2026-09-15 | [2026年苏州大学王健法学院关于接收2027级推荐免试研究生预报名的通知](https://mp.weixin.qq.com/s/ckhbugOIIl1Hd1QO2GzcFw) |
 | 2026-09-15 | [2026年苏州大学苏州医学院关于接收2027级推荐免试研究生预报名的通知](https://medical.suda.edu.cn/dd/bb/c10298a712123/page.htm) |
+| 2026-09-15 | [2026年苏州大学苏州医学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
+| 2026-09-15 | [2026年苏州大学附属儿童医院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
+| 2026-09-15 | [2026年苏州大学国际创新药学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
 | 2026-09-15 | [2026年苏州大学金融工程研究中心关于接收2027级推荐免试研究生预报名的通知](https://fineng.suda.edu.cn/da/73/c12344a711283/page.htm) |
+| 2026-09-15 | [2026年苏州大学数学科学学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
+| 2026-09-15 | [2026年苏州大学金属材料与先进制造学院推免研究生预报名通知](https://gsas.yjs.suda.edu.cn/ssxly/index#) |
+| 2026-09-15 | [2026年苏州大学纺织与服装工程学院关于接收2027级推荐免试研究生预报名的通知](https://textile.suda.edu.cn/da/e7/c6584a711399/page.htm) |
+| 2026-09-15 | [2026年苏州大学光电科学与工程学院接收2027级推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/QNTjeUoRlLooj9suaXf8uA) |
+| 2026-09-15 | [2026年苏州大学电子信息学院2026年研究生招生线上宣讲会与2027级推免预报名工作的通知](https://dzxx.suda.edu.cn/da/86/c8244a711302/page.htm) |
+| 2026-09-15 | [2026年苏州大学金螳螂建筑学院关于接收2027年推荐免试研究生预报名的通知](https://arch.suda.edu.cn/da/82/c5572a711298/page.htm) |
 | 2026-09-15 | [2026年苏州大学电子信息学院关于做好2026年研究生招生线上宣讲会与2027级推免预报名工作的通知](https://mp.weixin.qq.com/s/kPesI3dzKpOTuGkE9Mhm-w) |
+| 2026-09-14 | [2026年苏州大学神经科学研究所2027年推荐免试研究生](https://mp.weixin.qq.com/s/G1c3mDC7iVk_CYwo3PQdIw) |
 | ~~2026-08-28~~ | [2026年苏州大学计算机科学与技术学院2027级推荐免试研究生（含直博生）预推免报名及2026年研究生招生线上宣讲会安排通知](https://scst.suda.edu.cn/da/c4/c29555a711364/page.htm) |
 
 <div align="center">
@@ -1408,8 +1486,8 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 暂无 | [2026年华东理工大学生物工程学院2027年接收外校推荐免试研究生提前面试通知](https://biotech.ecust.edu.cn/2026/0904/c7799a193037/page.htm) |
 | 暂无 | [2026年华东理工大学商学院金融硕士项目MF2027年接收推荐免试研究生预报名及线上宣讲会的通知](https://mp.weixin.qq.com/s/BIyOCwMx9Ab8iRwvfGH2ZA) |
+| 2026-09-13 | [2026年华东理工大学生物工程学院2027年接收外校推荐免试研究生提前面试通知](https://biotech.ecust.edu.cn/2026/0904/c7799a193037/page.htm) |
 | 2026-09-13 | [2026年华东理工大学商学院2027年接收外校推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/A5JzIUhQPCWl_QQ-Vdvfyw) |
 
 <div align="center">
@@ -1460,13 +1538,15 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年哈尔滨工程大学计算机科学与技术学院2027年接收优秀应届生免试攻读研究生预报名前信息发布](https://cstc.hrbeu.edu.cn/2026/0827/c3688a351636/page.htm) |
+| 暂无 | [2026年哈尔滨工程大学机电工程学院关于2027年接收优秀应届生免试攻读研究生预报名的通知](https://mp.weixin.qq.com/s/8eYDplVNhu0YHsC7PHnkbA) |
 | 暂无 | [2026年哈尔滨工程大学外国语学院关于2027年接收优秀应届生免试攻读研究生预报名的通知](https://fld.hrbeu.edu.cn/info/1061/4040.htm) |
 | 暂无 | [2026年哈尔滨工程大学外国语学院关于2027年接收优秀应届生免试攻读研究生预报名的通知](https://mp.weixin.qq.com/s/xwVv2PFvBuTDHPUZPJ4_Ag) |
+| 2026-09-20 | [2026年哈尔滨工程大学经济管理学院2027年推免生预报名通知](https://mp.weixin.qq.com/s/B2dTH5_7LSEVAl_FacbQCg) |
 | 2026-09-18 | [2026年哈尔滨工程大学智能科学与工程学院关于2027年接收优秀应届生免试攻读研究生预报名的通知](https://cisse.hrbeu.edu.cn/info/1219/10883.htm) |
 | 2026-09-18 | [2026年哈尔滨工程大学动力与能源工程学院关于2027年预推免报名工作的通知](https://pnec.hrbeu.edu.cn/info/1035/9015.htm) |
-| 2026-09-18 | [2026年哈尔滨工程大学计算机科学与技术学院关于2027年接收优秀应届生免试攻读研究生预报名的通知](https://cstc.hrbeu.edu.cn/2026/0904/c3688a351834/page.htm) |
 | 2026-09-18 | [2026年哈尔滨工程大学数学科学学院2027年推免生预报名通知](https://math.hrbeu.edu.cn/info/1012/3792.htm) |
 | 2026-09-18 | [2026年哈尔滨工程大学核科学与技术学院2027年预推免工作通知](https://mp.weixin.qq.com/s/QaXkuk9XPnqC6ky_c3ex8w) |
+| 2026-09-18 | [2026年哈尔滨工程大学计算机科学与技术学院关于2027年接收优秀应届生免试攻读研究生预报名的通知](https://cstc.hrbeu.edu.cn/2026/0904/c3688a351834/page.htm) |
 | 2026-09-17 | [2026年哈尔滨工程大学人文社会科学学院2027年推免生预报名和复试工作安排](https://shss.hrbeu.edu.cn/2026/0904/c9220a351832/page.htm) |
 
 <div align="center">
@@ -1475,16 +1555,17 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-14 | [2026年暨南大学人文学院社会学一级学科硕士学位点接收全国高校优秀应届本科推免生报名公告](https://rwxy.jnu.edu.cn/2026/0822/c30419a861921/page.htm) |
 | 2026-09-14 | [2026年暨南大学法学院/知识产权学院2027年招收推荐免试攻读博士学位研究生（直博生）的通知](https://law.jnu.edu.cn/2026/0821/c1236a861897/page.htm) |
-| 2026-09-14 | [2026年暨南大学生命科学技术学院2027年招收推荐免试攻读博士学位研究生（直博生）的通知](https://sky.jnu.edu.cn/2026/0810/c2706a861647/page.htm) |
 | 2026-09-14 | [2026年暨南大学深圳旅游学院2027年接收全国高校优秀应届本科推免生报名公告](https://szly.jnu.edu.cn/2026/0822/c41983a861919/page.htm) |
 | 2026-09-14 | [2026年暨南大学经济与社会研究院应届本科推免生报名公告](https://mp.weixin.qq.com/s/0W0EFO4DAb_1Znt09xdAAg) |
 | 2026-09-14 | [2026年暨南大学管理学院2027年接收全国高校优秀应届本科推免生报名公告](https://mp.weixin.qq.com/s/IplYexzStHDQml0HB6av7Q) |
 | 2026-09-14 | [2026年暨南大学产业经济研究院2027年数字经济专硕推免报名8月21日正式启动](https://mp.weixin.qq.com/s/4P27KSBx_fDd_33tOUmMYg) |
 | 2026-09-14 | [2026年暨南大学产业经济研究院2027年接收全国高校优秀应届本科推免生报名公告](https://mp.weixin.qq.com/s/ajCBDQ6yzm0FQLqPf8xI0Q) |
+| 2026-09-14 | [2026年暨南大学外国语学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/Fi4JtBZpQulUghF3teu98A) |
 | 2026-09-14 | [2026年暨南大学华文学院2027年招收推荐免试攻读博士学位研究生（直博生）的通知](https://hwy.jnu.edu.cn/2026/0825/c13666a862008/page.htm) |
 | 2026-09-14 | [2026年暨南大学人文学院法律（非法学）硕士专业学位点接收全国高校优秀应届本科推免生报名公告](https://rwxy.jnu.edu.cn/2026/0822/c30419a861920/page.htm) |
-| 2026-09-14 | [2026年暨南大学人文学院社会学一级学科硕士学位点接收全国高校优秀应届本科推免生报名公告](https://rwxy.jnu.edu.cn/2026/0822/c30419a861921/page.htm) |
+| 2026-09-14 | [2026年暨南大学生命科学技术学院2027年招收推荐免试攻读博士学位研究生（直博生）的通知](https://sky.jnu.edu.cn/2026/0810/c2706a861647/page.htm) |
 | 2026-09-14 | [2026年暨南大学经济学院2027年招收推荐免试攻读博士学位研究生（直博生）的通知](https://ec.jnu.edu.cn/2026/0824/c42192a861994/page.htm) |
 | 2026-09-14 | [2026年暨南大学公共管理学院/应急管理学院2027年招收推荐免试攻读博士学位研究生（直博生）的通知](https://gggl.jnu.edu.cn/2026/0812/c11904a861678/page.htm) |
 | 2026-09-14 | [2026年暨南大学马克思主义学院接收2027年全国高校优秀应届本科推免生报名的通知](https://mp.weixin.qq.com/s/cn3U9t2wfIoOIxJ81N79Tg) |
@@ -1530,6 +1611,15 @@
 | ~~2026-08-06~~ | [2026年中国政法大学商学院2027年接收优秀应届本科毕业生免试攻读博士学位研究生（本科直博生）报名工作的通知](https://mp.weixin.qq.com/s/hAsG0mO_HfuLSCfwNFNCFw) |
 
 <div align="center">
+<h3>江南大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-17 | [2026年江南大学人文学院接收2027年推荐免试研究生预报名公告](https://mp.weixin.qq.com/s/HtMe-SdSZeaGGuQ-3Jg_kQ) |
+| 2026-09-17 | [2026年江南大学人文学院2027年“国优计划”推荐免试硕士研究生预报名通知](https://mp.weixin.qq.com/s/_VgbA8l3TGvloThsek4Y4w) |
+
+<div align="center">
 <h3>中国海洋大学</h3>
 </div>
 
@@ -1544,10 +1634,10 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 暂无 | [2026年华中师范大学语言研究所2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://ling.ccnu.edu.cn/info/1023/11769.htm) |
-| 2026-09-11 | [2026年华中师范大学外国语学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/wpRo6FHLPvdFidizSZqzXA) |
-| 2026-09-11 | [2026年华中师范大学文学院2027年推免生招生通知](https://chinese.ccnu.edu.cn/info/1035/20677.htm) |
 | 2026-09-11 | [2026年华中师范大学前沿交叉研究院智能健康交叉科学中心（未来科学与工程研究院）2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/sPxE4tjCdrETdFGnwwNY4g) |
 | 2026-09-11 | [2026年华中师范大学语言研究所2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/a_P1bFl5n3kZPIr66G6LZQ) |
+| 2026-09-11 | [2026年华中师范大学外国语学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/wpRo6FHLPvdFidizSZqzXA) |
+| 2026-09-11 | [2026年华中师范大学文学院2027年推免生招生通知](https://chinese.ccnu.edu.cn/info/1035/20677.htm) |
 | 2026-09-11 | [2026年华中师范大学社会学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/AXzROcgWvrMQvrIxlcIViw) |
 | 2026-09-11 | [2026年华中师范大学公共管理学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://spa.ccnu.edu.cn/info/1166/16740.htm) |
 | 2026-09-11 | [2026年华中师范大学法学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://law.ccnu.edu.cn/info/1145/11034.htm) |
@@ -1601,6 +1691,14 @@
 | 2026-09-05 | [2026年北京化工大学国家卓越工程师学院2027年校企联合培养全日制工程硕博士推免工作通知](https://mp.weixin.qq.com/s/CuPahAvIffPsWse8QLNKcA) |
 
 <div align="center">
+<h3>西南大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-14 | [2026年西南大学计算机与信息科学学院软件学院关于接收2027年优秀应届本科毕业生推荐免（初）试攻读研究生的预报名通知](https://cis.swu.edu.cn/info/1145/5987.htm) |
+
+<div align="center">
 <h3>西南财经大学</h3>
 </div>
 
@@ -1627,6 +1725,20 @@
 | ~~2026-08-31~~ | [2026年西南财经大学外国语学院2027级接收推荐免试攻读硕士学位研究生工作细则](https://jmwy.swufe.edu.cn/info/1103/31633.htm) |
 | ~~2026-08-31~~ | [2026年西南财经大学社会发展研究院2027级接收推荐免试（推免生）攻读硕士学位研究生工作细则](https://sfy.swufe.edu.cn/info/1078/10089.htm) |
 | ~~2026-08-31~~ | [2026年西南财经大学国际金融学院2027级接收推荐免试攻读研究生工作细则](https://mp.weixin.qq.com/s/wdp9v1nmvfYFi3xI1xRLXw) |
+
+<div align="center">
+<h3>南昌大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-15 | [2026年南昌大学食品学院2027年接收推荐免试研究生预报名的补充说明](http://sfst.ncu.edu.cn/info/1842/23471.htm) |
+| 2026-09-15 | [2026年南昌大学第二临床医学院2027年接收推荐免试（含直博生）研究生预报名通知](https://www.jxndefy.cn/info/3284/22301.htm) |
+| 2026-09-14 | [2026年南昌大学经济管理学院2027年接收推荐免试研究生预报名通知](https://sem.ncu.edu.cn/info/1641/55121.htm) |
+| 2026-09-14 | [2026年南昌大学先进制造学院2027年接收推荐免试研究生预报名通知](https://jdgcxy.ncu.edu.cn/xwzx/tzgg/fe0fa8b8072e43a090111f0b118b7508.htm) |
+| 2026-09-13 | [2026年南昌大学新闻与传播学院接收2027级推荐免试研究生预报名通知](https://xwycb.ncu.edu.cn/tzgg/b0b46c5dbc9f455cbf7df8fda900ea71.htm) |
+| 2026-09-12 | [2026年南昌大学资源与环境学院2027年接收推荐免试研究生预报名的通知](https://zhxy.ncu.edu.cn/xtzgg/8932186d6e38475f9d3959283809a596.htm) |
+| 2026-09-10 | [2026年南昌大学旅游学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/sf527PghblO2g0_ULB-xkw) |
 
 <div align="center">
 <h3>中南财经政法大学</h3>
@@ -1656,12 +1768,32 @@
 | 暂无 | [2026年深圳大学神经语言学实验室“神经语言学交叉联合育人平台”2027年招收全日制学术型硕士研究生招生介绍](https://mp.weixin.qq.com/s/fU2eNWF2cltN4APtrZA1sA) |
 | 暂无 | [2026年深圳大学微众银行金融科技学院2027年硕士推免生预报名系统已开放](https://mp.weixin.qq.com/s/lIOdWBCIgMQ9nvgR33-KVA) |
 | 暂无 | [2026年深圳大学中国经济特区研究中心2027年硕招推免生预报名已开放](https://mp.weixin.qq.com/s/cRjWlmXGigY7MTUrhOtPJA) |
+| 暂无 | [2026年深圳大学数字医疗与智慧医保交叉育人平台管理科学与工程2027年推免招生](https://mp.weixin.qq.com/s/F_wHYZ2_dTz2E2GuhhgAMQ) |
 | 2026-09-22 | [2026年深圳大学化学与环境工程学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/MA2zq0oN6JPru7O66-nGcw) |
 | 2026-09-21 | [2026年深圳大学材料学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/cDtSZhY35mEJgLSZqpAhSg) |
 | 2026-09-20 | [2026年深圳大学数学科学学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/2_usIBYh3MuCx8JvCSrHWw) |
+| 2026-09-20 | [2026年深圳大学建筑与城市规划学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/bGa7PhsAQycUI7vf_4lPeQ) |
+| 2026-09-17 | [2026年深圳大学集成电路学院2027级硕士推免预报名正在进行中](https://mp.weixin.qq.com/s/O_gbgbg2NBNz8sQlh66PZA) |
 | 2026-09-14 | [2026年深圳大学计算机与软件学院2027级硕士推免预报名](https://mp.weixin.qq.com/s/gptZtlO8o5VuLwergf2FgA) |
 | 2026-09-14 | [2026年深圳大学光明实验室2027级硕士推免预报名通知](https://mp.weixin.qq.com/s/3keNYwOaFxg5-q_kgeiwVA) |
 | 2026-09-11 | [2026年深圳大学法学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/JaICVWHLoBkqn2hNfJJnrg) |
+
+<div align="center">
+<h3>北京外国语大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-09 | [2026年北京外国语大学信息科学技术学院关于接收2027年优秀应届本科毕业生免试攻读硕士研究生工作方案](https://sist.bfsu.edu.cn/info/1401/5961.htm) |
+| 2026-09-09 | [2026年北京外国语大学法学院关于推荐2027年优秀应届本科毕业生免试攻读研究生实施办法](https://sl.bfsu.edu.cn/info/1169/6398.htm) |
+| 2026-09-09 | [2026年北京外国语大学法语语言文化学院关于接收2027年优秀应届本科毕业生免试攻读硕士学位工作方案](https://french.bfsu.edu.cn/info/1053/19231.htm) |
+| 2026-09-09 | [2026年北京外国语大学专用英语学院关于接收2027年优秀应届本科毕业生免试攻读硕士学位研究生工作办法](https://sesp.bfsu.edu.cn/info/1106/5885.htm) |
+| 2026-09-09 | [2026年北京外国语大学日语学院、日本学研究中心关于接收2027年优秀应届本科毕业生免试攻读研究生工作方案](https://japan.bfsu.edu.cn/info/1058/5732.htm) |
+| 2026-09-09 | [2026年北京外国语大学德语学院关于接收2027年优秀应届本科毕业生免试攻读研究生工作办法](https://de.bfsu.edu.cn/info/1066/9243.htm) |
+| 2026-09-09 | [2026年北京外国语大学中国语言文学学院关于接收2027年优秀应届本科毕业生免试攻读硕士研究生工作办法](https://iei.bfsu.edu.cn/info/1100/5643.htm) |
+| 2026-09-09 | [2026年北京外国语大学高级翻译学院关于接收2027年优秀应届本科毕业生免试攻读硕士学位工作方案](https://gsti.bfsu.edu.cn/info/1017/20461.htm) |
+| 2026-09-09 | [2026年北京外国语大学英语学院接收2027年优秀应届本科毕业生免试攻读研究生（含直博生）工作办法](https://seis.bfsu.edu.cn/info/1164/12981.htm) |
+| 2026-09-09 | [2026年北京外国语大学国际中国文化研究院关于接收2027年优秀应届本科毕业生免试攻读研究生（含直博生）的通知](https://iics.bfsu.edu.cn/info/1206/17519.htm) |
 
 <div align="center">
 <h3>东华大学</h3>
@@ -1680,11 +1812,20 @@
 | 2026-09-14 | [2026年东华大学旭日经济与管理学院接收推免生预报名公告（学术型硕士）](https://glxy.dhu.edu.cn/2026/0812/c20141a379709/page.htm) |
 
 <div align="center">
+<h3>江苏大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-19 | [2026年江苏大学化学化工学院开始接收2027年推荐免试研究生](https://mp.weixin.qq.com/s/mB-EJh7YFf_wcsSwC0xUJA) |
+
+<div align="center">
 <h3>合肥工业大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-15 | [2026年合肥工业大学智能软件工程学院2027年接收推荐免试研究生预报名通知](https://rjxy.hfut.edu.cn/info/1015/3674.htm) |
 | 2026-09-15 | [2026年合肥工业大学食品与生物工程学院2027年接收推荐免试研究生（含直博生）预报名通知](https://spysw.hfut.edu.cn/info/1093/5612.htm) |
 | ~~2026-08-12~~ | [2026年合肥工业大学计算机与信息学院2026年优秀大学生暑期夏令营活动通知](https://ci.hfut.edu.cn/info/1063/16556.htm) |
 
@@ -1732,6 +1873,9 @@
 | 2026-09-15 | [2026年长安大学理学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/2LRYxx5Gbas1fMk4zYIa8A) |
 | 2026-09-15 | [2026年长安大学土木工程与智能建造学院2027年接收推荐免试研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/h0aqE6j9qSwLJJPPHZuB6Q) |
 | 2026-09-15 | [2026年长安大学运输工程学院2027年接收推荐免试研究生（含直博生）工作安排](https://ysxy.chd.edu.cn/2026/0903/c6228a262492/page.htm) |
+| 2026-09-15 | [2026年长安大学材料科学与工程学院2027年接收推荐免试研究生（含直博生）预报名通知](https://clxy.chd.edu.cn/info/1012/3081.htm) |
+| 2026-09-15 | [2026年长安大学运输工程学院2027年接收推荐免试研究生（含直博生）工作安排](https://mp.weixin.qq.com/s/0I7VocY1pvKJHlDWUMN6Nw) |
+| 2026-09-15 | [2026年长安大学土地工程学院2027年接收推荐免试研究生工作安排](https://sle.chd.edu.cn/2026/0714/c5515a261949/page.htm) |
 | 2026-09-15 | [2026年长安大学外国语学院2027年接收推荐免试研究生预报名通知](https://sfs.chd.edu.cn/info/1044/4061.htm) |
 | 2026-09-13 | [2026年长安大学公路学院2027年接收推荐免试研究生（含直博生）预报名提交提醒](https://mp.weixin.qq.com/s/a7v29Afzp22f79TnLVxFbQ) |
 | 2026-09-07 | [2026年长安大学卓越工程师学院2027年“工程硕博士培养改革专项试点”（全日制）招生简章](https://mp.weixin.qq.com/s/O4PeSs3Kdt80xx2_wpIU_Q) |
@@ -1746,6 +1890,7 @@
 | 暂无 | [2026年南京林业大学化学工程学院2027年接收推荐免试攻读研究生（含直博生）预报名通知](https://hg.njfu.edu.cn//tzgg/20260902/i363446.html) |
 | 暂无 | [2026年南京林业大学理学院2027年接收推荐免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/b8WDzl_LYO95v--cKoFV7w) |
 | 暂无 | [2026年南京林业大学生态与环境学院2027年接收推荐免试攻读研究生（含直博生）预报名通知](https://cee.njfu.edu.cn/tzgg/20260904/i363568.html) |
+| 暂无 | [2026年南京林业大学汽车与交通工程学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/KKg3LVvPrE9PW7EL4zPu7Q) |
 | 暂无 | [2026年南京林业大学林草学院、水土保持学院2027年接收推荐免试攻读研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/u2kDdHmS-ccJwixe7aQ8Fw) |
 | 暂无 | [2026年南京林业大学林草学院、水土保持学院2027年接收推荐免试攻读研究生（含直博生）预报名通知](https://linxue.njfu.edu.cn/tzgg/20260830/i363261.html) |
 | 暂无 | [2026年南京林业大学经济管理学院2027年接收推荐免试攻读研究生（含直博生）预报名通知](https://cem.njfu.edu.cn/2026/0901/c1961a246759/page.htm) |
@@ -1763,6 +1908,7 @@
 | 2026-09-08 | [2026年上海外国语大学语言科学研究院2027年接收优秀应届本科毕业生免试攻读研究生（含直博生）预报名招生简章](https://mp.weixin.qq.com/s/7-so2zreIKWHdV7cj4UErA) |
 | 2026-09-08 | [2026年上海外国语大学马克思主义学院2027年接收优秀应届本科毕业生免试攻读研究生预报名招生简章](https://mp.weixin.qq.com/s/3N6T8cUta8kbj39GA3kTHw) |
 | 2026-09-08 | [2026年上海外国语大学上海全球治理与区域国别研究院区域国别学2027年接收优秀应届本科毕业生免试攻读研究生预报名招生简章](https://mp.weixin.qq.com/s/8SiPqT7Q3SM3VaGwABT8Dw) |
+| 2026-09-08 | [2026年上海外国语大学国际关系与公共事务学院2027年接收优秀应届本科毕业生免试攻读研究生预报名招生简章](https://sirpa.shisu.edu.cn/38/00/c4642a210944/page.htm) |
 | 2026-09-08 | [2026年上海外国语大学国际金融贸易学院2027年接收免试攻读研究生预报名已开启](https://mp.weixin.qq.com/s/vcvewX0KgqDFpner2kOUow) |
 
 <div align="center">
@@ -1779,7 +1925,12 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-23 | [2026年湘潭大学材料科学与工程学院2027年招收推荐免试攻读硕士研究生工作方案](https://clxy.xtu.edu.cn/info/1003/10733.htm) |
 | 2026-09-11 | [2026年湘潭大学环境与资源学院2027年招收推荐免试攻读硕士研究生工作方案](https://hjzy.xtu.edu.cn/info/1003/7358.htm) |
+| 2026-09-11 | [2026年湘潭大学物理与光电工程学院2027年招收推荐免试攻读硕士研究生工作方案](https://wlxy.xtu.edu.cn/info/1089/4077.htm) |
+| 2026-09-11 | [2026年湘潭大学化学学院2027年招收推荐免试攻读研究生（含硕士生、直博生）工作方案](https://hxxy.xtu.edu.cn/info/1047/7587.htm) |
+| 2026-09-11 | [2026年湘潭大学机械工程与力学学院2027年招收推荐免试攻读研究生（含硕士生、直博生）工作方案](https://jxgc.xtu.edu.cn/info/1076/5996.htm) |
+| 2026-09-11 | [2026年湘潭大学计算机学院2027年招收推荐免试攻读硕士研究生工作方案](https://jwxy.xtu.edu.cn/info/1023/5035.htm) |
 | 2026-09-11 | [2026年湘潭大学马克思主义学院2027年招收推荐免试攻读硕士研究生工作方案](https://mks.xtu.edu.cn/info/1045/5854.htm) |
 | 2026-09-11 | [2026年湘潭大学哲学与历史文化学院（碧泉书院）2027年招收推荐免试攻读硕士研究生工作方案](https://bqsy.xtu.edu.cn/info/1014/3944.htm) |
 | 2026-09-11 | [2026年湘潭大学法学学部2027年招收推荐免试攻读研究生（含硕士生、直博生）工作方案](https://law.xtu.edu.cn/info/1091/7854.htm) |
@@ -1840,22 +1991,30 @@
 | 2026-09-15 | [2026年江西财经大学社会与人文学院关于接收2027年研究生推免生预报名的通知](https://mp.weixin.qq.com/s/u030tD7-iLQmtEMQ3eOTtw) |
 | 2026-09-13 | [2026年江西财经大学工商管理学院关于接收2027届“推免研究生”的公告](https://business.jxufe.edu.cn/news-show-13474.html) |
 | 2026-09-12 | [2026年江西财经大学虚拟现实（VR）现代产业学院关于接收2027年“推免研究生”公告](https://vr.jxufe.edu.cn/news-show-1515.html) |
-| 2026-09-11 | [2026年江西财经大学数字经济学院2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/wR6GXE6B_4ZJdfSrbrx9qg) |
-| 2026-09-11 | [2026年江西财经大学公共管理学院关于接收2027年推荐免试研究生（含直博生）预报名工作的通知](https://ggxy.jxufe.edu.cn/news-show-2419.html) |
 | 2026-09-11 | [2026年江西财经大学信息管理与数学学院关于接收2027年推免研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/BbLCZJU7HxFXGfp-qOGInw) |
-| 2026-09-11 | [2026年江西财经大学金融学院2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/1pjFqlox7940lnKn4EQLrA) |
 | 2026-09-11 | [2026年江西财经大学国际经济与政治学院2027年推荐免试研究生（含直博生）预报名工作的通知](https://gmxy.jxufe.edu.cn/news-show-9883.html) |
-| 2026-09-11 | [2026年江西财经大学统计与数据科学学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://stat.jxufe.edu.cn/news-show-8833.html) |
-| 2026-09-11 | [2026年江西财经大学软件与物联网工程学院（用友软件学院）关于接收2027推荐免试研究生预报名工作的通知](https://mp.weixin.qq.com/s/JwsXjuOfrHksHOnkaBKNrA) |
 | 2026-09-11 | [2026年江西财经大学公共管理学院关于接收2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/9gdG4_Mx26sUn1vQuZGO7w) |
+| 2026-09-11 | [2026年江西财经大学公共管理学院关于接收2027年推荐免试研究生（含直博生）预报名工作的通知](https://ggxy.jxufe.edu.cn/news-show-2419.html) |
 | 2026-09-11 | [2026年江西财经大学计算机与人工智能学院关于接收2027年推荐免试研究生（含直博生）预报名的通知](https://cai.jxufe.edu.cn/news-show-3369.html) |
-| 2026-09-11 | [2026年江西财经大学国际经济与政治学院关于接收2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/MDeBTkFl1IIUTYazMvmPqQ) |
+| 2026-09-11 | [2026年江西财经大学软件与物联网工程学院（用友软件学院）关于接收2027推荐免试研究生预报名工作的通知](https://mp.weixin.qq.com/s/JwsXjuOfrHksHOnkaBKNrA) |
 | 2026-09-11 | [2026年江西财经大学科技商学院关于接收2027年推荐免试研究生预报名工作的通知](https://mp.weixin.qq.com/s/B1IW__07tDfbBaFFJIEL4w) |
+| 2026-09-11 | [2026年江西财经大学金融学院2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/1pjFqlox7940lnKn4EQLrA) |
+| 2026-09-11 | [2026年江西财经大学数字经济学院2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/wR6GXE6B_4ZJdfSrbrx9qg) |
+| 2026-09-11 | [2026年江西财经大学国际经济与政治学院关于接收2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/MDeBTkFl1IIUTYazMvmPqQ) |
+| 2026-09-11 | [2026年江西财经大学统计与数据科学学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://stat.jxufe.edu.cn/news-show-8833.html) |
 | 2026-09-10 | [2026年江西财经大学会计学院关于接收2027年研究生推免生预报名的通知](https://kjxy.jxufe.edu.cn/news-show-9807.html) |
 | 2026-09-10 | [2026年江西财经大学马克思主义学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/NVRnHclFN7deOGUXiUp97g) |
 | 2026-09-10 | [2026年江西财经大学马克思主义学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://mkszyxy.jxufe.edu.cn/news-show-3376.html) |
 | 2026-09-10 | [2026年江西财经大学财政税务学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/ITF9jKw16t3hltiljrxFIA) |
 | 2026-09-10 | [2026年江西财经大学财政税务学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://csxy.jxufe.edu.cn/news-show-10286.html) |
+
+<div align="center">
+<h3>首都经济贸易大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-19 | [2026年首都经济贸易大学文化与传播学院2027年接收推荐免试攻读硕士学位研究生预申报通知](https://mp.weixin.qq.com/s/GR4iuaYAU7O-U5Z7i4g_nQ) |
 
 <div align="center">
 <h3>北京语言大学</h3>
@@ -1901,6 +2060,7 @@
 | 暂无 | [2026年华侨大学计算机科学与技术学院关于接收2027年推荐免试研究生的公告](https://cst.hqu.edu.cn/info/1044/38651.htm) |
 | 暂无 | [2026年华侨大学计算机科学与技术学院计算机学院关于接收2027年推荐免试研究生的公告](https://mp.weixin.qq.com/s/ZM5OuD5V93zQDkXhgioteg) |
 | 暂无 | [2026年华侨大学马克思主义学院2027年接收优秀应届本科毕业生免试攻读研究生招生预告](https://mp.weixin.qq.com/s/JnUeEEhf65Bn_vdjMs90kA) |
+| 暂无 | [2026年华侨大学旅游学院2027年接收优秀应届本科毕业生推荐免试攻读研究生通知](https://mp.weixin.qq.com/s/5qJxFJ4XAnD-u1OdrTAD5g) |
 
 <div align="center">
 <h3>河南科技大学</h3>
@@ -1956,11 +2116,30 @@
 | 2026-09-14 | [2026年上海政法学院上海纪录片学院（法治宣传教育学院）2027年接收优秀应届本科毕业生免试攻读硕士学位研究生预报名通知](https://mp.weixin.qq.com/s/BehTB1fJPpLmg9ScPzLKgw) |
 
 <div align="center">
+<h3>广东财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 暂无 | [2026年广东财经大学经济学院2027年接收优秀应届本科毕业生推荐免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/Iy_YiPu2TtZ3KhrLc6hTMA) |
+
+<div align="center">
+<h3>西安外国语大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-17 | [2026年西安外国语大学俄语学院2027年接收推荐免试研究生（含直博生）预申请通知](https://mp.weixin.qq.com/s/eeKriDdChs6wwJ1t9sWU2Q) |
+| 2026-09-17 | [2026年西安外国语大学英文学院关于接收2027年推荐免试硕士研究生预申请的通知](https://mp.weixin.qq.com/s/9MiMUxvsc4mkh0ynXwP3LA) |
+| 2026-09-17 | [2026年西安外国语大学日本文化经济学院2027年接收推荐免试硕士研究生预申请的通知](https://mp.weixin.qq.com/s/-Dwf0kxMXfK9RVsQeUQ8gA) |
+
+<div align="center">
 <h3>湖南工商大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2026年湖南工商大学会计学院2027年推免生“研途导航”预沟通渠道开放的通知](https://mpacc.hutb.edu.cn/tzgg/content_100626) |
 | 2026-09-10 | [2026年湖南工商大学前沿交叉与未来技术学院2027年招收推荐免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/jab9zAVhCeCjXrrHMcZbrg) |
 | 2026-09-10 | [2026年湖南工商大学智能工程与智能制造学院2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://sieim.hutb.edu.cn/yjsjy2/tzgg12/content_100570) |
 | 2026-09-10 | [2026年湖南工商大学数学与统计学院2027年招收推荐免试攻读研究生预报名通知](https://sxtj.hutb.edu.cn/tzgg/content_100542) |
@@ -2013,6 +2192,7 @@
 | 暂无 | [2026年中国科学院大学化学科学学院2027年接收推荐免试研究生公告（含直博生）](https://mp.weixin.qq.com/s/N96ipdr6DuQvvLrog3wMug) |
 | 暂无 | [2026年中国科学院大学化学科学学院2027年接收推荐免试研究生公告（含直博生）](https://chem.ucas.ac.cn/index.php/zh-cn/zsxx/7334-2027-2) |
 | 暂无 | [2026年中国科学院大学杭州高等研究院2027年接收推荐免试硕士研究生公告](http://hias.ucas.ac.cn/jwc/info/1025/1887.htm) |
+| 暂无 | [2026年中国科学院大学天文与空间科学学院接收2027年推荐免试生的通知](https://astro.ucas.ac.cn/index.php/cn/2016-03-17-01-40-33/2016-03-17-01-40-34/856-2027) |
 | 2026-10-20 | [2026年中国科学院沈阳计算技术研究所接收2027年推荐免试硕士研究生的通知](http://yjs.sict.ac.cn/index.php?m=content&c=index&a=show&catid=15&id=189) |
 | 2026-10-08 | [2026年中国科学院新疆理化技术研究所2027年接收推荐免试生的通知](https://xjipc.cas.cn/yjs/zs/bszs/202608/t20260827_8266043.html) |
 | 2026-10-08 | [2026年中国科学院新疆天文台接收2027年推荐免试生的通知](http://xao.ac.cn/xwdt/zs/202607/t20260721_8253414.html) |
@@ -2020,10 +2200,11 @@
 | 2026-09-25 | [2026年中国科学院上海微系统与信息技术研究所2027年招收推荐免试研究生公告](https://sim.cas.cn/yjs/zsxx/yjs_sszs/202607/t20260731_8257693.html) |
 | 2026-09-24 | [2026年中国科学院声学研究所接收2027级推免研究生面试安排](https://ioa.cas.cn/yjs/zsxx/zstz/202608/t20260804_8259122.html) |
 | 2026-09-22 | [2026年中国科学院国家授时中心接收2027年推免生预报名的通知](https://ntsc.cas.cn/xwzx_/zsxx/202608/t20260811_8259912.html) |
-| 2026-09-20 | [2026年中国科学院青岛生物能源与过程研究所接收2027年推荐免试生简章](http://edu.qibebt.ac.cn/info/1055/4830.htm) |
-| 2026-09-20 | [2026年中国科学院天津工业生物技术研究所接收2027年推荐免试研究生及直博生报名通知](http://www.tib.cas.cn/yjsjy/zsxx/sszs/t_8265026.html) |
+| 2026-09-22 | [2026年中国科学院昆明植物研究所2027年接收推荐免试入学硕士生和直博生的办法](http://www.kib.ac.cn/yjsjy/zs/sszs/202609/t20260904_8278674.html) |
 | 2026-09-20 | [2026年中国科学院声学研究所东海研究站2027年接收推荐免试生的通知](https://www.shal.ac.cn/news/tzgg/202609/t20260902_855501.html) |
 | 2026-09-20 | [2026年中国科学院微小卫星创新研究院招收2027年推荐免试生的通知](https://mp.weixin.qq.com/s/xAw8kIGGX3Btj3INRnbIMA) |
+| 2026-09-20 | [2026年中国科学院天津工业生物技术研究所接收2027年推荐免试研究生及直博生报名通知](http://www.tib.cas.cn/yjsjy/zsxx/sszs/t_8265026.html) |
+| 2026-09-20 | [2026年中国科学院青岛生物能源与过程研究所接收2027年推荐免试生简章](http://edu.qibebt.ac.cn/info/1055/4830.htm) |
 | 2026-09-20 | [2026年中国科学院昆明动物研究所接收2027年推荐免试研究生（直博生）公告](https://mp.weixin.qq.com/s/puYICg57564YjIs7hLCiYw) |
 | 2026-09-20 | [2026年中国科学院亚热带农业生态研究所2027年招收推荐免试硕士研究生（直博生）招生简章](https://www.isa.cas.cn/yjsb/zsxx/zsjzyml/202608/t20260820_8262822.html) |
 | 2026-09-20 | [2026年中国科学院南京地理与湖泊研究所（联合培养）中国科学院南京地理与湖泊研究所与南京师范大学、河海大学2027级“卓越研究生”联合培养专项计划推免生预报名公告](https://mp.weixin.qq.com/s/K-jV6sMpU_FRY2j_qqa-Eg) |
@@ -2037,27 +2218,27 @@
 | 2026-09-18 | [2026年中国科学院西安光学精密机械研究所2027年招收推荐免试生通知](https://mp.weixin.qq.com/s/Vl9Z2TO62Zar6C2yw8cJpQ) |
 | 2026-09-18 | [2026年中国科学院上海技术物理研究所接收2027级推荐免试研究生申请办法](https://sitp.cas.cn/yjs/zsxx/ssszs/202607/t20260727_8255524.html) |
 | 2026-09-18 | [2026年中国科学院长春光学精密机械与物理研究所2027年招收推荐免试生的通知](https://mp.weixin.qq.com/s/M4_zorrVoKFgZ7V0WSNt-w) |
-| 2026-09-18 | [2026年中国科学院上海高等研究院接收2027年推荐免试研究生招生简章](https://mp.weixin.qq.com/s/rjd0leFqw4WD7Q312F7b6A) |
-| 2026-09-18 | [2026年中国科学院理化技术研究所接收2027年推荐免试生简章](https://ipc.cas.cn/yjsjy2019/zsxx/202608/t20260813_8260203.html) |
 | 2026-09-18 | [2026年中国科学院高能所推免生面试安排](https://ihep.cas.cn/edu/zs/ssyjs/tzgg/202608/t20260813_8260215.html) |
+| 2026-09-18 | [2026年中国科学院理化技术研究所接收2027年推荐免试生简章](https://ipc.cas.cn/yjsjy2019/zsxx/202608/t20260813_8260203.html) |
+| 2026-09-18 | [2026年中国科学院上海高等研究院接收2027年推荐免试研究生招生简章](https://mp.weixin.qq.com/s/rjd0leFqw4WD7Q312F7b6A) |
 | 2026-09-18 | [2026年中国科学院西北高原生物研究所2027年推荐免试生（直博生）接收公告](http://www.nwipb.cas.cn/jy/zsxx/202608/t20260812_8260074.html) |
-| 2026-09-17 | [2026年中国科学院生态环境研究中心2027年接收推荐免试生（含直博生）面试公告](http://www.rcees.cas.cn/tzg/zs/202608/t20260807_8259633.html) |
 | 2026-09-17 | [2026年中国科学院生态环境研究中心2027年接收推荐免试生（含直博生）面试公告（第三批）](https://rcees.cas.cn/tzg/zs/202609/t20260903_8278429.html) |
+| 2026-09-17 | [2026年中国科学院生态环境研究中心2027年接收推荐免试生（含直博生）面试公告](http://www.rcees.cas.cn/tzg/zs/202608/t20260807_8259633.html) |
 | 2026-09-16 | [2026年中国科学院深海科学与工程研究所接收2027年推荐免试研究生招生章程](https://idsse.cas.cn/yjsjy/yjsjy_tzgg/202608/t20260827_8266109.html) |
 | 2026-09-16 | [2026年中国科学院武汉岩土力学研究所2027年推荐免试生招收简章](https://whrsm.cas.cn/yjsjy2020/zsxx_168126/sszs_168127/202608/t20260820_8262806.html) |
 | 2026-09-16 | [2026年中国科学院精密测量科学与技术创新研究院2027年接收推荐免试研究生（含直博生）公告](https://apm.cas.cn/zs/202607/t20260728_8256315.html) |
 | 2026-09-16 | [2026年中国科学院南海海洋研究所2027年接收推荐免试生招生简章](https://mp.weixin.qq.com/s/V3oEayc1_6l9YtqbQF1mrw) |
-| 2026-09-15 | [2026年中国科学院遗传与发育生物学研究所农业资源研究中心招收2027年推荐免试研究生（含直博生）公告](http://www.sjziam.cas.cn/yjsjy/tzgg/202608/t20260831_8274737.html) |
-| 2026-09-15 | [2026年中国科学院西双版纳热带植物园2027年接收推荐免试硕士生（含直博生）通知](https://xtbg.cas.cn/2022/yjsjy/yjszsxx/sszs/202608/t20260817_8260881.html) |
-| 2026-09-15 | [2026年中国科学院大学应急管理科学与工程学院接收2027年推荐免试攻读研究生公告](https://emse.ucas.ac.cn/index.php/zh/ezsjy/esshzs/552-2027) |
-| 2026-09-15 | [2026年中国科学院新疆生态与地理研究所招收2027年推免生（含直博生）的通知](https://egi.cas.cn/yjsjy/zsxx/sszs/202609/t20260901_8274875.html) |
-| 2026-09-15 | [2026年中国科学院上海光学精密机械研究所2027年接收推荐免试生的通知](https://siom.cas.cn/rcjy/zsxx/sszs/202607/t20260723_8254495.html) |
-| 2026-09-15 | [2026年中国科学院城市环境研究所2027年招收推荐免试研究生公告](https://mp.weixin.qq.com/s/e15RxZfbPQm0GrvMTMHlnA) |
-| 2026-09-15 | [2026年中国科学院大学杭州高等研究院环境学院接收2027年推荐免试硕士研究生公告](https://mp.weixin.qq.com/s/ACZYJv6Ztgo1QVE6DguJJA) |
 | 2026-09-15 | [2026年中国科学院大学国际理论物理中心（亚太地区）2027年接收推荐免试研究生招生简章](https://ictp-ap.org/post/258) |
+| 2026-09-15 | [2026年中国科学院西双版纳热带植物园2027年接收推荐免试硕士生（含直博生）通知](https://xtbg.cas.cn/2022/yjsjy/yjszsxx/sszs/202608/t20260817_8260881.html) |
+| 2026-09-15 | [2026年中国科学院大学杭州高等研究院环境学院接收2027年推荐免试硕士研究生公告](https://mp.weixin.qq.com/s/ACZYJv6Ztgo1QVE6DguJJA) |
+| 2026-09-15 | [2026年中国科学院遗传与发育生物学研究所农业资源研究中心招收2027年推荐免试研究生（含直博生）公告](http://www.sjziam.cas.cn/yjsjy/tzgg/202608/t20260831_8274737.html) |
 | 2026-09-15 | [2026年中国科学院成都生物研究所2027年接收推荐免试硕士研究生及直博生实施细则](http://www.cib.cas.cn/yjsjy/zspy/sszs/202608/t20260821_8263231.html) |
+| 2026-09-15 | [2026年中国科学院上海光学精密机械研究所2027年接收推荐免试生的通知](https://siom.cas.cn/rcjy/zsxx/sszs/202607/t20260723_8254495.html) |
+| 2026-09-15 | [2026年中国科学院新疆生态与地理研究所招收2027年推免生（含直博生）的通知](https://egi.cas.cn/yjsjy/zsxx/sszs/202609/t20260901_8274875.html) |
+| 2026-09-15 | [2026年中国科学院大学应急管理科学与工程学院接收2027年推荐免试攻读研究生公告](https://emse.ucas.ac.cn/index.php/zh/ezsjy/esshzs/552-2027) |
 | 2026-09-15 | [2026年中国科学院光电技术研究所2027年招收推荐免试研究生含直博生章程](https://yjsb.ioe.ac.cn/zs/sszs/info/2026/51580.html) |
 | 2026-09-15 | [2026年中国科学院广州地球化学研究所2027年接收推荐免试研究生的通知](https://mp.weixin.qq.com/s/bgG9sXz8UwPHzojSBsXvzw) |
+| 2026-09-15 | [2026年中国科学院城市环境研究所2027年招收推荐免试研究生公告](https://mp.weixin.qq.com/s/e15RxZfbPQm0GrvMTMHlnA) |
 | 2026-09-15 | [2026年中国科学院北京纳米能源与系统研究所2027年招收推荐免试研究生（含直博生）报名通知](http://www.binn.cas.cn/yjsjy/ssbszs/sszs/202609/t20260901_8274848.html) |
 | 2026-09-14 | [2026年中国科学院大学密码学院2027年接收推荐免试研究生报名通知（第二轮）](https://soc.ucas.ac.cn/index.php/zh/zsxxs/shzs/1598-202709) |
 | 2026-09-14 | [2026年中国科学院大学杭州高等研究院物理与光电工程学院接收2027级推荐免试研究生公告](http://hias.ucas.ac.cn/wlgd/info/1020/1631.htm) |
@@ -2065,56 +2246,56 @@
 | 2026-09-14 | [2026年中国科学院大学杭州高等研究院智能科学与技术学院接收2027级推荐免试生公告](http://hias.ucas.ac.cn/znkxyjs/info/1118/1491.htm) |
 | 2026-09-14 | [2026年中国科学院大学杭州高等研究院化学与材料科学学院接收2027级推荐免试研究生公告](http://hias.ucas.ac.cn/hxyclkxxy/info/1065/1893.htm) |
 | 2026-09-14 | [2026年中国科学院大学杭州高等研究院生命与健康科学学院2027年接收推荐免试硕士研究生公告](http://hias.ucas.ac.cn/life/info/1437/2360.htm) |
-| 2026-09-13 | [2026年中国科学院地球环境研究所2027年接收推荐免试研究生公告](https://www.ieecas.cn/edu/zsxx/sszs/202608/t20260826_8265614.html) |
 | 2026-09-13 | [2026年中国科学院广州生物医药与健康研究院2027年接收推荐免试生招生简章](https://gibh.cas.cn/yjs/zsxx/sszs/202609/t20260904_8278565.html) |
-| 2026-09-13 | [2026年中国科学院植物研究所2027年接收推荐免试研究生通知](https://ib.cas.cn/2019gb/yjsjy2019/zsxx2019/ssyjszsxx2019/202608/t20260820_8262754.html) |
-| 2026-09-13 | [2026年中国科学院大学生命科学学院（校本部）接收2027年推荐免试研究生报名公告](https://bio.ucas.ac.cn/index.php/%E6%8B%9B%E7%94%9F%E5%B0%B1%E4%B8%9A/2022-03-29-02-18-59/2022-03-29-01-56-36/76932-2027-2027) |
-| 2026-09-13 | [2026年中国科学院大学杭州高等研究院基础物理与数学科学学院接收2027级推荐免试研究生公告](http://hias.ucas.ac.cn/mathphys/info/1166/1521.htm) |
 | 2026-09-13 | [2026年中国科学院杭州医学研究所2027年接收推荐免试研究生（含直博生）的通知](https://mp.weixin.qq.com/s/7IlpKyYe95qdqnIk4MeAbw) |
-| 2026-09-13 | [2026年中国科学院遗传与发育生物学研究所招收2027年推荐免试研究生招生公告](http://www.genetics.cas.cn/edu/zsxx/xlytms/202608/t20260824_8264815.html) |
+| 2026-09-13 | [2026年中国科学院植物研究所2027年接收推荐免试研究生通知](https://ib.cas.cn/2019gb/yjsjy2019/zsxx2019/ssyjszsxx2019/202608/t20260820_8262754.html) |
+| 2026-09-13 | [2026年中国科学院大学杭州高等研究院基础物理与数学科学学院接收2027级推荐免试研究生公告](http://hias.ucas.ac.cn/mathphys/info/1166/1521.htm) |
+| 2026-09-13 | [2026年中国科学院大学生命科学学院（校本部）接收2027年推荐免试研究生报名公告](https://bio.ucas.ac.cn/index.php/%E6%8B%9B%E7%94%9F%E5%B0%B1%E4%B8%9A/2022-03-29-02-18-59/2022-03-29-01-56-36/76932-2027-2027) |
 | 2026-09-13 | [2026年中国科学院南京土壤研究所接收2027年推荐免试生含直博生公告](http://www.issas.cas.cn/yjsjy/zs/202608/t20260828_8266405.html) |
+| 2026-09-13 | [2026年中国科学院地球环境研究所2027年接收推荐免试研究生公告](https://www.ieecas.cn/edu/zsxx/sszs/202608/t20260826_8265614.html) |
+| 2026-09-13 | [2026年中国科学院遗传与发育生物学研究所招收2027年推荐免试研究生招生公告](http://www.genetics.cas.cn/edu/zsxx/xlytms/202608/t20260824_8264815.html) |
 | 2026-09-13 | [2026年中国科学院山西煤炭化学研究所2027年接收推荐免试生简章](https://edu.sxicc.ac.cn/zsgl/sszs/202608/t20260831_855224.html) |
 | 2026-09-13 | [2026年中国科学院大学杭州高等研究院分子医学院2027年接收推荐免试研究生公告](http://hias.ucas.ac.cn/fzyxy/info/1065/1822.htm) |
 | 2026-09-13 | [2026年中国科学院大学杭州高等研究院药物科学与技术学院接收2027级推荐免试研究生公告](https://mp.weixin.qq.com/s/kX63nwJSrEtalJrtIrgLwg) |
 | 2026-09-12 | [2026年中国科学院北京基因组研究所（国家生物信息中心）2027年推荐免试研究生（含直博生）招生报名通知](https://big.cas.cn/yjs/zsxx/kjrh/202609/t20260901_8275480.html) |
 | 2026-09-12 | [2026年中国科学院国家生物信息中心2027年推荐免试研究生（含直博生）招生报名通知](https://mp.weixin.qq.com/s/eg8ixxY4XrAMMBB_iMOB9g) |
 | 2026-09-12 | [2026年中国科学院大学资源与环境学院（校本部）接收2027年推荐免试研究生报名公告](https://cre.ucas.ac.cn/index.php/zh-CN/zspy/zsgz/12246-27) |
-| 2026-09-11 | [2026年中国科学院力学研究所招收2027级预推免生的报名通知](https://www.imech.ac.cn/edu/zsjy/zs/sszsxx/zsxx/202609/t20260903_8277482.html) |
 | 2026-09-11 | [2026年中国科学院海洋研究所2027年接收推荐免试生招生简章](https://www.qdio.ac.cn/yjs/yjsnotice/202608/t20260826_854675.html) |
+| 2026-09-11 | [2026年中国科学院力学研究所招收2027级预推免生的报名通知](https://www.imech.ac.cn/edu/zsjy/zs/sszsxx/zsxx/202609/t20260903_8277482.html) |
+| 2026-09-11 | [2026年中国科学院海洋研究所2027年推荐免试研究生招生正式启动](https://mp.weixin.qq.com/s/jG7qZl4RyyE9gHdL68uJcQ) |
 | 2026-09-11 | [2026年中国科学院大学工程科学学院2027年接收推荐免试研究生公告](https://eng.ucas.ac.cn/index.php/zh-CN/xjgl-2/2862-2027) |
 | 2026-09-11 | [2026年中国科学院苏州生物医学工程技术研究所2027级推荐免试研究生（含直博生）预报名的通知](https://sibet.cas.cn/yjsjy2020/zsxx_169599/202608/t20260827_8265851.html) |
-| 2026-09-11 | [2026年中国科学院海洋研究所2027年推荐免试研究生招生正式启动](https://mp.weixin.qq.com/s/jG7qZl4RyyE9gHdL68uJcQ) |
 | 2026-09-11 | [2026年中国科学院苏州生物医学工程技术研究所关于2027级推荐免试研究生（含直博生）预报名的通知](https://mp.weixin.qq.com/s/x71nbSyYxCL8O6QPlffHIg) |
 | 2026-09-11 | [2026年中国科学院理论物理研究所2027年接收推荐免试生面试预通知](https://itp.cas.cn/yjs/zs/sszs/202609/t20260901_8274974.html) |
-| 2026-09-10 | [2026年中国科学院地理科学与资源研究所2027年接收推荐免试生招生公告](https://igsnrr.cas.cn/yjsjy/tzgg/202608/t20260818_8261798.html) |
+| 2026-09-10 | [2026年中国科学院成都山地灾害与环境研究所2027年接收推荐免试硕士研究生（直博生）实施细则](https://mp.weixin.qq.com/s/CbfBdvuRplKQeuD168voWA) |
 | 2026-09-10 | [2026年中国科学院分子植物科学卓越创新中心2027级推荐免试研究生报名通知](http://www.sippe.ac.cn/jypy/yjspy/yjs_zsqk/202608/t20260814_8260678.html) |
 | 2026-09-10 | [2026年中国科学院成都山地灾害与环境研究所2027年接收推荐免试硕士研究生（直博生）实施细则](https://imde.cas.cn/yjsjy/zsdt/zsjz/202608/t20260824_8264738.html) |
 | 2026-09-10 | [2026年中国科学院上海天文台2027年招收推荐免试研究生通知](https://www.shao.ac.cn/yjs/zsxx/202609/t20260903_8277455.html) |
 | 2026-09-10 | [2026年中国科学院上海营养与健康研究所2027级硕士推荐免试研究生报名通知](https://sedu.sinh.ac.cn/news.php?id=545) |
 | 2026-09-10 | [2026年中国科学院南京地理与湖泊研究所2027年接收推荐免试硕士生和直博生公告](https://mp.weixin.qq.com/s/myriGTIKpgIATnXfa_8lFA) |
 | 2026-09-10 | [2026年中国科学院南京地理与湖泊研究所2027年接收推荐免试硕士生和直博生公告](http://www.niglas.cas.cn/yjsjy_165790/zs/sszs/202608/t20260827_8265806.html) |
-| 2026-09-10 | [2026年中国科学院成都山地灾害与环境研究所2027年接收推荐免试硕士研究生（直博生）实施细则](https://mp.weixin.qq.com/s/CbfBdvuRplKQeuD168voWA) |
 | 2026-09-10 | [2026年中国科学院电工研究所2027年招收推荐免试研究生通知](https://iee.cas.cn/yjsjy/zsgg/202607/t20260731_8257803.html) |
 | 2026-09-10 | [2026年中国科学院成都计算机应用研究所2027年接收硕士推荐生免试方法](http://www.casit.ac.cn/tongzhi/329.html) |
+| 2026-09-10 | [2026年中国科学院地理科学与资源研究所2027年接收推荐免试生招生公告](https://igsnrr.cas.cn/yjsjy/tzgg/202608/t20260818_8261798.html) |
 | 2026-09-10 | [2026年中国科学院大学中丹学院2027年接收推荐免试研究生公告](https://sdc.ucas.ac.cn/index.php/zspy/235-2020-7/2576-2027) |
 | 2026-09-09 | [2026年中国科学院化学研究所接收2027级推荐免试研究生报名通知（新）](https://ic.cas.cn/jyc/zsxx/202608/t20260831_8272279.html) |
 | 2026-09-08 | [2026年中国科学院上海药物研究所2027年接收推荐免试研究生公告](https://simm.cas.cn/web/yjsjy/zsxx/202608/t20260810_8259889.html) |
 | 2026-09-08 | [2026年中国科学院大气物理研究所2027年接收推荐免试研究生的通知](https://iap.cas.cn/gb/yjsjy/tzgg/202608/t20260819_8262353.html) |
 | 2026-09-07 | [2026年中国科学院赣江创新研究院2026年优秀大学生预面试活动通知](http://www.gia.cas.cn/rcjy/sszs/202609/t20260901_8276213.html) |
 | 2026-09-07 | [2026年中国科学院数学与系统科学研究院接收2027年推荐免试生的通知](https://amss.cas.cn/admission/zsxm/9ytm/202608/t20260831_8266761.html) |
-| 2026-09-07 | [2026年中国科学院深圳先进技术研究院2027年工程硕博士联培专项招生简介](https://mp.weixin.qq.com/s/OEv53IMFyZ-k0nu6-teutA) |
-| 2026-09-07 | [2026年中国科学院深圳先进技术研究院2027年工程硕博士联培专项招生简介](https://www.siat.cas.cn/jyjx/zsxx/lhpy/202608/t20260828_8266436.html) |
 | 2026-09-07 | [2026年中国科学院大学物理科学学院2027年接收推荐免试研究生通知](https://physics.ucas.ac.cn/index.php/zh-CN/zsxx/6907-2027) |
+| 2026-09-07 | [2026年中国科学院深圳先进技术研究院2027年工程硕博士联培专项招生简介](https://www.siat.cas.cn/jyjx/zsxx/lhpy/202608/t20260828_8266436.html) |
+| 2026-09-07 | [2026年中国科学院深圳先进技术研究院2027年工程硕博士联培专项招生简介](https://mp.weixin.qq.com/s/OEv53IMFyZ-k0nu6-teutA) |
 | 2026-09-06 | [2026年中国科学院大学经济与管理学院2027年接收推荐免试研究生复试工作规程](https://sem.ucas.ac.cn/article/article_xq_time/eyJhcnRpY2xlX3d6X2lkIjoxOTM1OSwidGl0bGUxIjoi6YeN6KaB6YCa55+lIiwidHlwZV9pZCI6MjgsImluZGV4IjoxfQ==) |
 | 2026-09-06 | [2026年中国科学院地质与地球物理研究所2027年招收推荐免试研究生通知](http://www.igg.cas.cn/jyyd/zs/sszs/202608/t20260825_8265058.html) |
 | 2026-09-06 | [2026年中国科学院大学核科学与技术学院2027年接收推荐免试研究生通知](https://nuclear.ucas.edu.cn/index.php/zh-cn/zsjy/zs/bkxz/4389-tm2027) |
-| 2026-09-05 | [2026年中国科学院生物物理研究所关于招收2027年推荐免试研究生（含直博生）的通知](https://ibp.cas.cn/2020jyc/tzgg/202608/t20260803_8258734.html) |
 | 2026-09-05 | [2026年中国科学院上海硅酸盐研究所接收2027年推荐免试研究生招生简章](https://www.sic.cas.cn/yjsjy/zs/zsxx/202607/t20260730_8257183.html) |
-| 2026-09-04 | [2026年中国科学院空间应用工程与技术中心2027年接收推荐免试研究生预报名通知](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202608/t20260819_8262176.html) |
-| 2026-09-04 | [2026年中国科学院科技战略咨询研究院2027年接收推荐免试硕士研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/04AwN2toXiFFVCfsukQJpA) |
-| 2026-09-04 | [2026年中国科学院半导体研究所关于2027年推荐免试生申请报名及面试时间安排通知](https://bdt.semi.ac.cn/yanjiusheng/contents/691/5016.html) |
-| 2026-09-04 | [2026年中国科学院大学前沿交叉科学学院2027年接收推荐免试直博生公告](https://sais.ucas.ac.cn/index.php/zh/xwgs/tgzs/1450-2027-2) |
-| 2026-09-04 | [2026年中国科学院外语系2027年接收推荐免试生公告](https://foreign.ucas.edu.cn/zspy/sszs/13a5dcabb21b4fa9a5788dba0908c3c8.htm) |
+| 2026-09-05 | [2026年中国科学院生物物理研究所关于招收2027年推荐免试研究生（含直博生）的通知](https://ibp.cas.cn/2020jyc/tzgg/202608/t20260803_8258734.html) |
+| ~~2026-09-04~~ | [2026年中国科学院空间应用工程与技术中心2027年接收推荐免试研究生预报名通知](http://www.csu.cas.cn/gb/yjsjy2/tzygg/202608/t20260819_8262176.html) |
+| ~~2026-09-04~~ | [2026年中国科学院科技战略咨询研究院2027年接收推荐免试硕士研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/04AwN2toXiFFVCfsukQJpA) |
+| ~~2026-09-04~~ | [2026年中国科学院半导体研究所关于2027年推荐免试生申请报名及面试时间安排通知](https://bdt.semi.ac.cn/yanjiusheng/contents/691/5016.html) |
+| ~~2026-09-04~~ | [2026年中国科学院大学前沿交叉科学学院2027年接收推荐免试直博生公告](https://sais.ucas.ac.cn/index.php/zh/xwgs/tgzs/1450-2027-2) |
+| ~~2026-09-04~~ | [2026年中国科学院外语系2027年接收推荐免试生公告](https://foreign.ucas.edu.cn/zspy/sszs/13a5dcabb21b4fa9a5788dba0908c3c8.htm) |
 | ~~2026-09-03~~ | [2026年中国科学院微生物研究所接收2027年推荐免试研究生及直博生报名通知](https://im.cas.cn/yjsjy/zsxx/ssyjszs/202607/t20260727_8255573.html) |
 | ~~2026-09-02~~ | [2026年中国科学院计算技术研究所接收2027年推荐免试研究生简章](https://ict.cas.cn/yjsjy/zsxx/sszs/202608/t20260828_8266523.html) |
 | ~~2026-09-01~~ | [2026年中国科学院计算机网络信息中心2027年推荐免试生（含直博生）招生简章](https://cnic.cas.cn/yjsjy/zsxx/tjms/202608/t20260804_8259075.html) |
@@ -2122,8 +2303,8 @@
 | ~~2026-08-31~~ | [2026年中国科学院科技战略咨询研究院2027年接收推荐免试硕士研究生（含直博生）预报名通知](http://www.casisd.cn/rcpy/zsxx/sszs/202607/t20260705_8241671.html) |
 | ~~2026-08-31~~ | [2026年中国科学院大学电子电气与通信工程学院接收2027级推荐免试攻读研究生公告](https://eece.ucas.ac.cn/index.php/zh-cn/2014-06-13-06-51-06/2715-2027) |
 | ~~2026-08-31~~ | [2026年中国科学院南京地质古生物研究所招收2027年推荐免试硕士生和直博生公告](https://www.nigpas.cas.cn/rcjyu/sszs/202608/t20260817_8261005.html) |
-| ~~2026-08-30~~ | [2026年中国科学院上海有机化学研究所接收2027年推荐免试研究生通知](https://sioc.cas.cn/zs/202608/t20260812_8260088.html) |
 | ~~2026-08-30~~ | [2026年中国科学院大学数学科学学院2027年接收推荐免试研究生公告](https://math.ucas.ac.cn/index.php/zh-CN/zsjy/sszs/3317-2027) |
+| ~~2026-08-30~~ | [2026年中国科学院上海有机化学研究所接收2027年推荐免试研究生通知](https://sioc.cas.cn/zs/202608/t20260812_8260088.html) |
 | ~~2026-08-30~~ | [2026年中国科学院分子细胞科学卓越创新中心2027年入学推免生预报名通知](https://mp.weixin.qq.com/s/7wIy6HJMf9V6iS3csTX7ig) |
 | ~~2026-08-27~~ | [2026年中国科学院自动化研究所2027年接收推荐免试生简章及第二批推免面试通知](http://www.ia.cas.cn/yjsjy/zs/sszs/202608/t20260820_8262847.html) |
 | ~~2026-08-24~~ | [2026年中国科学院大学人文学院2027年接收推荐免试研究生公告](https://renwen.ucas.ac.cn/index.php/ltjz/2015-01-20-10-11-10/57436-2027) |
@@ -2147,6 +2328,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-11 | [2026年国防科技大学空天科学学院第二批2027级推荐免试地方硕士研究生（含直博生）工作方案](https://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14936) |
 | ~~2026-07-24~~ | [2026年国防科技大学智能科学学院接收2027级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案（第二批）](https://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14896) |
 | ~~2026-07-20~~ | [2026年国防科技大学外国语学院接收2027级地方院校推荐免试硕士研究生（含参军入伍生）工作方案](https://yjszs.nudt.edu.cn/pubweb/homePageList/newDetailed.view?keyId=14877) |
 | ~~2026-07-18~~ | [2026年国防科技大学空天科学学院接收2027级地方院校推荐免试硕士研究生（含直博生、参军入伍生）工作方案](https://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=14853) |
@@ -2207,12 +2389,16 @@
 | 暂无 | [2026年中国地质大学（北京）工程技术学院梅钢教授课题组招收2027年推免硕士生、申请考核博士生](https://mp.weixin.qq.com/s/v290BuvFK2UxNyNY1PGaIA) |
 | 暂无 | [2026年中国地质大学（北京）自然文化研究院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://bm.cugb.edu.cn/yjsyzsb/c/2026-09-04/856326.shtml) |
 | 暂无 | [2026年中国地质大学（北京）马克思主义学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://bm.cugb.edu.cn/yjsyzsb/c/2026-09-03/856304.shtml) |
+| 暂无 | [2026年中国地质大学（北京）马克思主义学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://mp.weixin.qq.com/s/H5xBimUfWJ5SK4K5hFi9mw) |
 | 2026-09-16 | [2026年中国地质大学（北京）材料科学与工程学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://bm.cugb.edu.cn/yjsyzsb/c/2026-09-04/856359.shtml) |
 | 2026-09-15 | [2026年中国地质大学（北京）地球物理与信息技术学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）复试工作方案](https://bm.cugb.edu.cn/yjsyzsb/c/2026-09-04/856362.shtml) |
 | 2026-09-15 | [2026年中国地质大学（北京）数理学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://bm.cugb.edu.cn/yjsyzsb/c/2026-09-04/856338.shtml) |
 | 2026-09-15 | [2026年中国地质大学（北京）能源学院2027年接收优秀应届本科毕业生推荐免试研究生（含直博生）及复试工作方案](https://ser.cugb.edu.cn/c/2026-09-04/856409.shtml) |
 | 2026-09-15 | [2026年中国地质大学（北京）地球科学与资源学院2027年接收优秀应届本科毕业生推荐免试攻读研究生及复试录取工作方案](https://bm.cugb.edu.cn/yjsyzsb/c/2026-09-04/856323.shtml) |
 | 2026-09-14 | [2026年中国地质大学（北京）科学研究院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://bm.cugb.edu.cn/yjsyzsb/c/2026-09-04/856396.shtml) |
+| 2026-09-12 | [2026年中国地质大学（北京）土地科学技术学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://slst.cugb.edu.cn/c/2026-09-04/856412.shtml) |
+| 2026-09-11 | [2026年中国地质大学（北京）经济管理学院关于接收2027年推荐免试攻读全日制硕士研究生复试录取工作方案](https://sem.cugb.edu.cn/c/2026-09-05/856517.shtml) |
+| 2026-09-10 | [2026年中国地质大学（北京）人工智能学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含直博生）及复试工作方案](https://bm.cugb.edu.cn/yjsyzsb/c/2026-09-04/856420.shtml) |
 
 <div align="center">
 <h3>中国农业科学院</h3>
@@ -2273,6 +2459,14 @@
 | 暂无 | [2026年中国机械科学研究总院北京机电研究所2027年推免生招收章程](https://mp.weixin.qq.com/s/7-hyl0FipTgYBhXGbRXMKQ) |
 
 <div align="center">
+<h3>中国环境科学研究院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 暂无 | [2026年中国环境科学研究院2027年接收推荐免试攻读硕士研究生工作办法](https://www.craes.cn/yjsy_sy/zsjy/zsjy_ssszs/202609/t20260904_1165179.html) |
+
+<div align="center">
 <h3>中国电子信息产业集团有限公司</h3>
 </div>
 
@@ -2313,6 +2507,14 @@
 | 暂无 | [2026年深圳理工大学-深圳大学联合培养项目2027年接收推荐免试研究生预报名的通知](https://mp.weixin.qq.com/s/OsSZN9m1Q8-5ctrQPd1O5w) |
 
 <div align="center">
+<h3>煤炭科学研究总院</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-10-20 | [2026年煤炭科学研究总院2027年推免生招生简章](https://mp.weixin.qq.com/s/DT0D22bmHR3KGAoRlfOvUQ) |
+
+<div align="center">
 <h3>自然资源部</h3>
 </div>
 
@@ -2335,6 +2537,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-09 | [2026年中国社会科学院大学历史学院考古系2027年接收优秀应届本科毕业生免试攻读硕士学位研究生预报名工作细则](https://mp.weixin.qq.com/s/3yRZBA7Vm2fuuZCm70mvzg) |
 | ~~2026-08-25~~ | [2026年中国社会科学院大学社会与民族学院2027年接收推荐免试攻读研究生（含直博生）预报名通知](https://shymzxy.ucass.edu.cn/info/1031/6018.htm) |
 
 <div align="center">

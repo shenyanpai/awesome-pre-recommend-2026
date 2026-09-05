@@ -9,7 +9,7 @@
 
 <div align="center">
 <p align="center">
-<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="17" style="height: 1em; vertical-align: middle;"> 天 </b>
+<b>⏰ 离2026年推免系统填报志愿（9.22）还有 <img src="./imgs/time.png" alt="16" style="height: 1em; vertical-align: middle;"> 天 </b>
 </p>
 </div>
 
@@ -102,7 +102,16 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-11 | [2026年武汉大学质量发展战略研究院2027年硕士研究生推免接收预报名通知](http://www.iqds.whu.edu.cn/info/1126/135625.htm) |
 | 2026-09-07 | [2026年武汉大学信息管理学院关于2027年推荐免试研究生预报名的公告](https://mp.weixin.qq.com/s/ikihYujg3E-Rgblv3_EHNw) |
+
+<div align="center">
+<h3>西安交通大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-14 | [2026年西安交通大学管理学院2027年招收推荐免试研究生工作实施细则](https://mp.weixin.qq.com/s/OR-nDuCJuLujg6IaQ3GLxg) |
 
 <div align="center">
 <h3>中山大学</h3>
@@ -123,6 +132,14 @@
 |:------------:|:---------|
 | ~~2026-09-01~~ | [2026年东南大学雷恩研究生学院资产评估专业2027年接收推荐免试研究生报名通知](https://em.seu.edu.cn/2026/0710/c57635a576454/page.htm) |
 | ~~2026-08-12~~ | [2026年东南大学经济管理学院2027年接收推荐免试研究生报名通知](https://em.seu.edu.cn/2026/0708/c57190a575975/page.htm) |
+
+<div align="center">
+<h3>北京理工大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-14 | [2026年北京理工大学经济学院2027年接收优秀应届本科毕业生推荐免试攻读研究生（含本直博生）办法](https://soe.bit.edu.cn/rcpy/xsybs/tzgg1/2a124e6c2c6940df82094a574c40dd62.htm) |
 
 <div align="center">
 <h3>哈尔滨工业大学</h3>
@@ -167,6 +184,9 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 2026-09-10 | [2026年北京师范大学统计学院关于接收2027年优秀应届本科毕业生免试攻读研究生的通知](https://stat.bnu.edu.cn/rcpy/bks_20210426195902596415/tzgg_20210426195902596415/1e4dfe10d76e4146a796916b9fecd096.htm) |
+| 2026-09-09 | [2026年北京师范大学经济与工商管理学院2027年学术学位硕士及博士推荐免试综合考核实施细则](https://bs.bnu.edu.cn/yjsjx/yjszsxx/fadacdf476354f7e98db48a2c06b8f18.html) |
+| 2026-09-09 | [2026年北京师范大学经济与工商管理学院2027年推荐免试综合考核实施细则（专业硕士）](https://bs.bnu.edu.cn/zyxwssjyzx/zxgg2/90dad95514a04cd199aeca0ecf288f0d.html) |
 | 2026-09-07 | [2026年北京师范大学湾区国际商学院2027年推荐免试综合考核实施细则](https://bibs.bnu.edu.cn/news/notice/0c59f00b319941f4b41a8e82c25d3e15.htm) |
 
 <div align="center">
@@ -226,6 +246,7 @@
 | 暂无 | [2026年中南大学商学院关于2026年推荐免试研究生（九月预推免）报名时间的说明](https://bs.csu.edu.cn/info/1045/26949.htm) |
 | 2026-09-10 | [2026年中南大学商学院关于2027年接收优秀应届本科毕业生免试攻读硕士研究生考核录取工作通知（学术学位）](https://bs.csu.edu.cn/info/1045/26951.htm) |
 | 2026-09-10 | [2026年中南大学商学院关于2027年接收优秀应届本科毕业生免试攻读硕士研究生考核选拔方案（会计专业学位）](https://bs.csu.edu.cn/info/1046/26953.htm) |
+| 2026-09-10 | [2026年中南大学商学院关于2027年接收优秀应届本科毕业生免试攻读硕士研究生考核录取工作通知（金融专硕）](https://bs.csu.edu.cn/info/1045/26973.htm) |
 
 <div align="center">
 <h3>中国农业大学</h3>
@@ -268,7 +289,7 @@
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
-| 2026-09-04 | [2026年电子科技大学经济与管理学院2026年“优秀本科生选拔计划”实施办法](https://www.mgmt.uestc.edu.cn/info/1087/25939.htm) |
+| ~~2026-09-04~~ | [2026年电子科技大学经济与管理学院2026年“优秀本科生选拔计划”实施办法](https://www.mgmt.uestc.edu.cn/info/1087/25939.htm) |
 
 <div align="center">
 <h3>湖南大学</h3>
@@ -362,6 +383,14 @@
 | 2026-09-17 | [2026年西安电子科技大学经济与管理学院2027年推荐免试研究生招生预报名通知](https://sem.xidian.edu.cn/info/1536/15221.htm) |
 
 <div align="center">
+<h3>北京交通大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-11 | [2026年北京交通大学经济管理学院接收2027年推荐免试硕士生（博士）工作进度安排预告](https://mba.bjtu.edu.cn/show-357-10490.html) |
+
+<div align="center">
 <h3>上海科技大学</h3>
 </div>
 
@@ -415,6 +444,14 @@
 | ~~2026-08-31~~ | [2026年中央财经大学会计学院2027年接收直博和硕博连读项目推免生的通知](https://mp.weixin.qq.com/s/dQ94r6KoTYMYAPux0Of2-A) |
 
 <div align="center">
+<h3>哈尔滨工程大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-20 | [2026年哈尔滨工程大学经济管理学院2027年推免生预报名通知](https://mp.weixin.qq.com/s/B2dTH5_7LSEVAl_FacbQCg) |
+
+<div align="center">
 <h3>暨南大学</h3>
 </div>
 
@@ -466,6 +503,15 @@
 | ~~2026-08-31~~ | [2026年西南财经大学国际金融学院2027级接收推荐免试攻读研究生工作细则](https://mp.weixin.qq.com/s/wdp9v1nmvfYFi3xI1xRLXw) |
 
 <div align="center">
+<h3>南昌大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-14 | [2026年南昌大学经济管理学院2027年接收推荐免试研究生预报名通知](https://sem.ncu.edu.cn/info/1641/55121.htm) |
+| 2026-09-10 | [2026年南昌大学旅游学院2027年接收推荐免试研究生预报名通知](https://mp.weixin.qq.com/s/sf527PghblO2g0_ULB-xkw) |
+
+<div align="center">
 <h3>深圳大学</h3>
 </div>
 
@@ -473,6 +519,7 @@
 |:------------:|:---------|
 | 暂无 | [2026年深圳大学微众银行金融科技学院2027年硕士推免生预报名系统已开放](https://mp.weixin.qq.com/s/lIOdWBCIgMQ9nvgR33-KVA) |
 | 暂无 | [2026年深圳大学中国经济特区研究中心2027年硕招推免生预报名已开放](https://mp.weixin.qq.com/s/cRjWlmXGigY7MTUrhOtPJA) |
+| 暂无 | [2026年深圳大学数字医疗与智慧医保交叉育人平台管理科学与工程2027年推免招生](https://mp.weixin.qq.com/s/F_wHYZ2_dTz2E2GuhhgAMQ) |
 
 <div align="center">
 <h3>东华大学</h3>
@@ -540,15 +587,23 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-09-13 | [2026年江西财经大学工商管理学院关于接收2027届“推免研究生”的公告](https://business.jxufe.edu.cn/news-show-13474.html) |
-| 2026-09-11 | [2026年江西财经大学统计与数据科学学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://stat.jxufe.edu.cn/news-show-8833.html) |
 | 2026-09-11 | [2026年江西财经大学数字经济学院2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/wR6GXE6B_4ZJdfSrbrx9qg) |
+| 2026-09-11 | [2026年江西财经大学国际经济与政治学院关于接收2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/MDeBTkFl1IIUTYazMvmPqQ) |
 | 2026-09-11 | [2026年江西财经大学国际经济与政治学院2027年推荐免试研究生（含直博生）预报名工作的通知](https://gmxy.jxufe.edu.cn/news-show-9883.html) |
 | 2026-09-11 | [2026年江西财经大学金融学院2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/1pjFqlox7940lnKn4EQLrA) |
-| 2026-09-11 | [2026年江西财经大学国际经济与政治学院关于接收2027年推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/MDeBTkFl1IIUTYazMvmPqQ) |
 | 2026-09-11 | [2026年江西财经大学科技商学院关于接收2027年推荐免试研究生预报名工作的通知](https://mp.weixin.qq.com/s/B1IW__07tDfbBaFFJIEL4w) |
+| 2026-09-11 | [2026年江西财经大学统计与数据科学学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://stat.jxufe.edu.cn/news-show-8833.html) |
 | 2026-09-10 | [2026年江西财经大学会计学院关于接收2027年研究生推免生预报名的通知](https://kjxy.jxufe.edu.cn/news-show-9807.html) |
 | 2026-09-10 | [2026年江西财经大学财政税务学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://mp.weixin.qq.com/s/ITF9jKw16t3hltiljrxFIA) |
 | 2026-09-10 | [2026年江西财经大学财政税务学院关于2027年接收推荐免试研究生（含直博生）预报名工作的通知](https://csxy.jxufe.edu.cn/news-show-10286.html) |
+
+<div align="center">
+<h3>华侨大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 暂无 | [2026年华侨大学旅游学院2027年接收优秀应届本科毕业生推荐免试攻读研究生通知](https://mp.weixin.qq.com/s/5qJxFJ4XAnD-u1OdrTAD5g) |
 
 <div align="center">
 <h3>南京财经大学</h3>
@@ -568,11 +623,20 @@
 | 2026-09-15 | [2026年上海政法学院经济管理学院2027年接收优秀应届本科毕业生免试攻读硕士学位研究生预报名通知](https://mp.weixin.qq.com/s/l09xaLNHMza6aSNbOlFK5A) |
 
 <div align="center">
+<h3>广东财经大学</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 暂无 | [2026年广东财经大学经济学院2027年接收优秀应届本科毕业生推荐免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/Iy_YiPu2TtZ3KhrLc6hTMA) |
+
+<div align="center">
 <h3>湖南工商大学</h3>
 </div>
 
 | 截止时间 | 通知 |
 |:------------:|:---------|
+| 暂无 | [2026年湖南工商大学会计学院2027年推免生“研途导航”预沟通渠道开放的通知](https://mpacc.hutb.edu.cn/tzgg/content_100626) |
 | 2026-09-10 | [2026年湖南工商大学经济与贸易学院2027年招收推荐免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/ri4QnNgr6rd7inDeoy1E6g) |
 | 2026-09-10 | [2026年湖南工商大学管理科学与工程学院2027年招收推荐免试攻读研究生（含直博生）预报名通知](https://mse.hutb.edu.cn/tzgg1/content_100552) |
 | 2026-09-10 | [2026年湖南工商大学财政金融学院2027年招收推荐免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/FiC3IVAnjzRiXxhIOdckLg) |
@@ -586,7 +650,7 @@
 | 截止时间 | 通知 |
 |:------------:|:---------|
 | 2026-09-06 | [2026年中国科学院大学经济与管理学院2027年接收推荐免试研究生复试工作规程](https://sem.ucas.ac.cn/article/article_xq_time/eyJhcnRpY2xlX3d6X2lkIjoxOTM1OSwidGl0bGUxIjoi6YeN6KaB6YCa55+lIiwidHlwZV9pZCI6MjgsImluZGV4IjoxfQ==) |
-| 2026-09-04 | [2026年中国科学院科技战略咨询研究院2027年接收推荐免试硕士研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/04AwN2toXiFFVCfsukQJpA) |
+| ~~2026-09-04~~ | [2026年中国科学院科技战略咨询研究院2027年接收推荐免试硕士研究生（含直博生）预报名通知](https://mp.weixin.qq.com/s/04AwN2toXiFFVCfsukQJpA) |
 
 <div align="center">
 <h3>香港中文大学（深圳）</h3>
@@ -604,6 +668,14 @@
 |:------------:|:---------|
 | 2026-09-15 | [2026年中国石油大学（北京）克拉玛依校区工商管理学院2027年接收优秀应届本科毕业生推荐免试攻读研究生预报名的通知](https://www.cupk.edu.cn/gsxy/c/2026-07-28/537443.shtml) |
 | 2026-09-13 | [2026年中国石油大学（北京）经济管理学院关于2027年接收优秀应届本科毕业生免试攻读研究生预报名通知](https://mp.weixin.qq.com/s/TEYt5FtaE0tqjBSqQPsDFw) |
+
+<div align="center">
+<h3>中国地质大学（北京）</h3>
+</div>
+
+| 截止时间 | 通知 |
+|:------------:|:---------|
+| 2026-09-11 | [2026年中国地质大学（北京）经济管理学院关于接收2027年推荐免试攻读全日制硕士研究生复试录取工作方案](https://sem.cugb.edu.cn/c/2026-09-05/856517.shtml) |
 
 <div align="center">
 <h3>中国农业科学院</h3>
